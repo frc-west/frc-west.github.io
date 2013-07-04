@@ -1,11 +1,48 @@
 <h1>Methods</h1>
 <hr />
+<p>Fundamentally, programming relies on something called a "method". The concept of a method is basically a 'group of instructions' represented as one instruction. For example, "Walk forwards" involves "Move left leg forwards, then right leg forwards until distance is reached". Methods call other methods that perform parts of their functions.</p>
+<p>In python, a method is represented like this:</p>
+<pre><code>def plusOne(arg):
+    return arg + 1
+</code></pre>
+<p>Use <code>def</code> to tell python that it is a method. <code>plusOne</code> is the method name. <code>arg</code> is the argument of the method. Use commas to denote multiple arguments. <code>:</code> is used after the parentheses to tell python that the next indented lines are the instructions of the method. Things that aren't indented are not part of the method. For example:</p>
+<pre><code>def plusOne(arg):
+return arg + 1
+
+print plusOne(3)
+</code></pre>
+<p>This will report an error.</p>
+<pre><code>  Line 2
+    return arg + 1
+         ^
+IndentationError: expected an indented block
+</code></pre>
+<p>The instructions inside of <code>plusOne</code> need to be indented. This is the way python distinguishes normal instructions from instructions inside of methods.</p>
 <h2>Managing Methods</h2>
+<p>Methods can become confusing if they are not managed correctly. Remember that there are principles that you should abide by to create usable programs.</p>
 <h3>Reusability</h3>
+<p>Always make your methods as easily reusable as possible. Even if you don't think you'll need it again, it is good practise to make methods robust. This means that methods should do the exact same thing every time they are run. Most of this job is inherently done just because you can't change programs while they run, but it is still possible to break programs by making methods fragile.</p>
 <h3>Generality</h3>
+<p>Methods should adhere to generality. Your <code>eatCake</code> method should be <code>eat</code> instead, and then you can call <code>eat(cake)</code>, and still have the capability to <code>eat(vegetables)</code>.</p>
 <h2>Return Types</h2>
+<p>Methods can <em>return</em> values. This can be useful in a lot of cases. For example:</p>
+<pre><code>def square(x):
+    return x * x
+</code></pre>
+<p>By having a simple <code>square</code> method, you make it much easier to square numbers.</p>
 <h3>Void</h3>
-<h3>Data Types</h3>
+<p>Sometimes you don't need to return a value. The term for this is a <em>void</em> method. In python, simply do not return a value to make a method void. Example:</p>
+<pre><code>def printSquare(x):
+    print square(x)
+</code></pre>
+<h3>Primitives</h3>
+<p>You can return any data type in a method. If the value is a <em>primitive</em> (number or boolean), it has to be assigned to a variable to be used elsewhere.</p>
 <h3>References</h3>
+<p>If the return type is an <em>object</em> (non-primitive), it is a <em>reference</em> to the object. This means that the object is referenced instead of directly accessed like primitives.</p>
 <h2>Parameters</h2>
+<p>Parameters, or arguments, are given inside of the parentheses in methods. They are given so that you can perform the function on the arguments. Otherwise, the method will always do the exact same thing. You make methods dynamic by using parameters. A lot of functions have inherent parameters, like the <code>eat</code> function. You need something to eat before eating, so <code>eat</code> requires <code>Food</code> (<code>eat(food)</code>).</p>
 <h3>References VS Primitives</h3>
+<p>References and primitives can be confusing without context. This example should clarify the differences between the two:</p>
+<iframe src="http://frc-west.codepad.org/QLguiL9c" style="width: 80%; height: 800px"></iframe>
+
+<p>You can see that trying to adjust primitives inside of a method (<code>addOne</code>) does not work, but adjusting references does (<code>addHour</code>). For now, ignore what <code>Time</code> is. All you need to know is that it is an object that can be changed. The <code>time</code> object is a reference, and not a direct value.</p>
