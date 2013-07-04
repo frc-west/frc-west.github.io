@@ -1,4 +1,32 @@
 <h1>Variables</h1>
 <hr />
+<p>Variables are names that represent values. In real life, you use names to refer to things. You do the same thing in programming. You can tell the computer that <code>X</code> will be 5.4, and from there on refer to X instead of 5.4. You can also change the value of X when needed.</p>
+<p>Variables are dynamic types, meaning that you can declare them as any type that you want.</p>
 <h2>Assigning</h2>
+<p>To assign a variable, simply use <code>=</code> to declare the new value associated with the name. For example:</p>
+<pre><code>x = 12.3221
+</code></pre>
+<p>From that point on, you can reference <code>x</code> as a value.</p>
+<pre><code>print x # will print 12.3221
+</code></pre>
+<p>This is also useful for states.</p>
+<pre><code>ready = false
+
+def isReady():
+    return ready
+
+def readyUp():
+    ready = true
+</code></pre>
+<p>Other parts of the code might call <code>readyUp</code>, and then you will know that it is ready.</p>
 <h2>Referencing</h2>
+<p>Variables have a <strong>scope</strong>. This means that if you create <code>x</code> inside of a method, it is only available in that method. Variables default to the <em>tightest</em> scope possible. For example:</p>
+<pre><code># State can be accessed anywhere in the file
+state = "working"
+
+def printState():
+    # User state can't be accessed anywhere outside of method
+    userState = "Is " + state
+    print userState
+</code></pre>
+<p>Because <code>userState</code> is only created inside of the method, you cannot see it from anywhere else.</p>

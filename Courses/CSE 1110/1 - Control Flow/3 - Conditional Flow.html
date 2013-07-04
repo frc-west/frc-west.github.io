@@ -1,5 +1,78 @@
 <h1>Conditional Flow</h1>
 <hr />
+<p>There are cases where going from step to step isn't sufficient for running your program. You want to be able to adjust behaviour depending of different factors. There are three (and a few more not discussed) main control flow adjustments that programmers use often.</p>
 <h2>If</h2>
+<p>The most common way to adjust control flow is an <em>if statement</em>. This is equivalent to the English "if <em>condition</em> is true, do <em>instruction</em>".</p>
+<p>In English:</p>
+<pre><code>Let x be equal to 13.
+
+If x happens to be over to or equal to 13, print to the user "is &gt;= 13".
+</code></pre>
+<p>In Python:</p>
+<pre><code>x = 13
+
+if x &gt;= 13:
+    print "is &gt;= 13"
+</code></pre>
+<p>You can see that if statements are easy to use for simple checks.</p>
+<h3>Else</h3>
+<p>Sometimes you aren't content with one if check. Maybe there are multiple options, or you need to account for all other cases.</p>
+<p>In English:</p>
+<pre><code>Let x be equal to 24.3
+
+If x is less than 20, print to the user "&lt; 20"
+
+If the previous statement wasn't true, and x is under 25, print to the user "&lt; 25"
+
+If none of the previous statements were true, print to the user "&gt;= 25"
+</code></pre>
+<p>In Python:</p>
+<pre><code>x = 24.3
+
+if x &lt; 20:
+    print "&lt; 20"
+elif x &lt; 25:
+    print "&lt; 25"
+else:
+    print "&gt;= 25"
+</code></pre>
 <h2>For</h2>
+<p>For loops iterate over loops or through numbers. In python, there are two standard for loops.
+The first type iterates over a range, starting at 0.</p>
+<pre><code>for x in range(10):
+    print x
+</code></pre>
+<p>Outputs</p>
+<pre><code>0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+</code></pre>
+<p>The second type iterates over a list of elements.</p>
+<pre><code>for animal in ["dog", "cat", "mouse"]:
+    print animal
+</code></pre>
+<p>Outputs</p>
+<pre><code>dog
+cat
+mouse
+</code></pre>
 <h2>While</h2>
+<p>While loops run for however long a condition is true.</p>
+<pre><code>while true:
+    pass
+</code></pre>
+<p>Will run forever.</p>
+<p>While loops use basically the same syntax as if statements, but loop over the instructions instead of running once.</p>
+<pre><code>x = 0
+
+while x &lt; 10:
+    x++
+</code></pre>
+<p>Will run 10 times.</p>

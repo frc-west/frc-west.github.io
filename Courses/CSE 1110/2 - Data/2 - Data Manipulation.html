@@ -1,7 +1,41 @@
 <h1>Data Manipulation</h1>
 <hr />
+<p>There is a lot of ways to manipulate values. From basic arithmetic to calculus, there are many kinds of programming solutions.</p>
 <h2>Calculations</h2>
+<p>A lot of the manipulation you will need to do is number calculations. There are a lot of applications for math in programming.</p>
 <h3>Addition / Subtraction</h3>
+<p>Adding and subtracting are the easiest operations. Simply use the <code>+</code> and <code>-</code> operators.</p>
+<pre><code>print 12 - 3.4 # prints 8.6
+</code></pre>
 <h3>Multiplication / Division</h3>
+<p>Multiplication and division are just as simple as addition and subtraction, except for the type system. If you wish to do floating point operations, at least on value <em>must</em> be a float. Otherwise, answers will be rounded down. For example:</p>
+<pre><code>print 12 / 5 # prints 2
+</code></pre>
+<p>But,</p>
+<pre><code>print 12 / 5.0 # prints 2.4
+</code></pre>
+<p>You can use <code>float(x)</code> to transfer the number into a float too.</p>
+<pre><code>print 12 / float(5) # prints 2.4
+</code></pre>
 <h3>Modulus</h3>
+<p>In programming, there is a mathematical operation that remains rarely used in traditional mathematics. Modulus returns the "remaining" value of a division. Some examples:</p>
+<pre><code>12 % 5 = 2 # 12 / 5 = 2 R 2
+18 % 9 = 0 # 18 / 9 = 2 R 0
+18 % 10 = 8 # 18 / 10 = 1 R 8
+13 % 23 = 13 # 13 / 23 = 0 R 13
+</code></pre>
 <h2>Modifiers</h2>
+<p>There are a few basic modifiers for primitive values.</p>
+<p><code>+=</code>, <code>-=</code>, <code>*=</code>, <code>/=</code>, <code>%=</code> all perform a calculation on the variable. For example:</p>
+<pre><code>x += 2
+</code></pre>
+<p>Will add 2 to <code>x</code>.</p>
+<p><code>!</code> reverses a boolean value.</p>
+<pre><code>!true = false
+!false = true
+</code></pre>
+<p><code>++</code>, <code>--</code> adds/removes one to a variable</p>
+<pre><code>x = 0
+x++ # x is 1
+x-- # x is 0
+</code></pre>
