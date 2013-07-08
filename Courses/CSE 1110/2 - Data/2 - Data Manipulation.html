@@ -3,6 +3,7 @@
 <p>There is a lot of ways to manipulate values. From basic arithmetic to calculus, there are many kinds of programming solutions.</p>
 <h2>Calculations</h2>
 <p>A lot of the manipulation you will need to do is number calculations. There are a lot of applications for math in programming.</p>
+<p><strong>Important</strong>: Remember that calculations will always revert to the higher precision type. If both numbers are integers, an integer will be returned. Numbers are not rounded, they are floored.</p>
 <h3>Addition / Subtraction</h3>
 <p>Adding and subtracting are the easiest operations. Simply use the <code>+</code> and <code>-</code> operators.</p>
 <pre><code>print 12 - 3.4 # prints 8.6
@@ -30,7 +31,10 @@
 <pre><code>x += 2
 </code></pre>
 <p>Will add 2 to <code>x</code>.</p>
-<p><code>!</code> reverses a boolean value.</p>
-<pre><code>!true = false
-!false = true
+<p><code>not</code> reverses a boolean value.</p>
+<pre><code>not true = false
+not false = true
 </code></pre>
+<h1>Activity</h1>
+<p>Let's try doing this yourself. Create a variable named <code>minutes</code> set to 458. Print the current time, assuming that the minutes started at midnight. Feel free to adjust the number of minutes to test your answer! Answer available <a href="http://frc-west.codepad.org/jeue8Gra">here</a>.</p>
+<iframe src="http://frc-west.codepad.org/" style="width: 80%; height: 550px"></iframe>

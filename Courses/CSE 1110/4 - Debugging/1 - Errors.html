@@ -1,6 +1,28 @@
 <h1>Errors</h1>
 <hr />
+<p>There are two kinds of problems that can come up when programming. The first type is syntax errors. These are caused by programs that cannot be run because of something done that the language cannot do.</p>
+<p>Typically, syntax errors are due to inexperience and unfamiliarity with a language. These show up less and less as you gain experience.</p>
+<p>The second, more functional kind of error is a raised error. Raised errors are errors that happen during runtime. This means that something in your code has done something wrong/illegal. It's the programmer's job to tell the program what to do if the exception happens.</p>
 <h2>Error Handling</h2>
-<h3>Try-Catch Blocks</h3>
+<p>In python, you should handle errors using standard procedures, and try to recover when errors occur. If it is completely impossible to recover, you should let the program die, printing debugging information.</p>
+<h3>Catching Exceptions</h3>
+<p>Your program can detect when an error is thrown. You can do so using a try-except statement.</p>
+<iframe src="http://frc-west.codepad.org/tcaMPiWV" style="width: 80%; height: 250px"></iframe>
+
+<p>Anything inside of <code>try:</code> is run, and if the exception is thrown, the program goes into the <code>except</code>block.</p>
+<p>In this example, an exception is <em>raised</em> immediately, triggering the <code>except</code> block. If there was no error raised in the <code>try:</code> block, the <code>except</code> block would not be run.</p>
 <h2>Stack Traces</h2>
+<p>A stack trace is message giving a detailed look at the program execution before a certain point. Here's an example of a stack trace.</p>
+<iframe src="http://frc-west.codepad.org/ABtrktfD" style="width: 80%; height: 450px"></iframe>
+
 <h2>Error Messages</h2>
+<p>In the first example, an exception was created with a message as an argument. This message is for the programmer to explain what happened.</p>
+<p>Access error messages using</p>
+<pre><code>error.args[0]
+</code></pre>
+<p>As in:</p>
+<iframe src="http://frc-west.codepad.org/PALZuFgn" style="width: 80%; height: 300px"></iframe>
+
+<h1>Activity</h1>
+<p>Let's try doing this yourself. Create a method that raises an error, and call that method from another method, printing the stack trace. Answer available <a href="http://frc-west.codepad.org/mB38GzZ5">here</a>.</p>
+<iframe src="http://frc-west.codepad.org/" style="width: 80%; height: 550px"></iframe>
