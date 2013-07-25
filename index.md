@@ -1,5 +1,6 @@
 ---
 title: Front Page
+layout: default
 ---
 # FRC West Curriculum
 
