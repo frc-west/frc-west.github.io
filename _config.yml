@@ -1,3 +1,9 @@
-safe: true
-lsi: false
-pygments: true
+name: "FRC West Curriculum"
+description: "FRC West's robotics curriculum"
+
+url: "http://joelg236.github.io/frc-west-curriculum"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
