@@ -1,4 +1,4 @@
 ---
 title: Special Projects
-layout: default
+layout: specialprojects
 ---
