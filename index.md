@@ -4,3 +4,5 @@ layout: default
 ---
 
 This is the main portal for FRC West's Curriculum. Links to courses are found in the top right corner of this page.
+
+[Help](help)
