@@ -13,10 +13,10 @@ To look at content in courses, find the link on the right-hand side of the scree
 ## Website rendering
 If this website has any glitches, bugs or just anything that doesn't look right, report them [here](https://github.com/joelg236/frc-west-curriculum/issues/new). You'll need an account on github to report issues.
 
-## Technical details
+## <a id="technical">Technical details</a>
 For those of you who are interested, here are the technical specs of this website.
 
-- [Git](http://git-scm.com/) as version control
+- [Git](http://git-scm.com/) as version control on [github](https://github.com/)
 - Uses [Github Pages](http://pages.github.com/)
 - Compiled with [Jekyll](http://jekyllrb.com/)
 - Rendered with help from [twitter bootstrap](http://twitter.github.io/bootstrap/) and [jquery](http://jquery.com/).

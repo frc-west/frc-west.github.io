@@ -1,6 +1,302 @@
 name: "FRC West Curriculum"
-description: "FRC West's robotics curriculum"
+description: "FRC West's Robotics Curriculum"
 
-url: "http://joelg236.github.io/frc-west-curriculum"
+url: http://joelg236.github.io/frc-west-curriculum
 
 markdown: rdiscount
+
+# Site Navigation
+courses:
+-
+    course: CSE 1110
+    base: /courses/CSE 1110
+    url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/home
+    groups:
+    -
+        group: Introduction
+        units:
+        -
+            unit: Intro
+            base: /courses/CSE 1110/1 - Introduction/1 - Intro
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/1%20-%20Introduction/1%20-%20Intro
+
+    -
+        group: Control Flow
+        units:
+        -
+            unit: Methods
+            base: /courses/CSE 1110/2 - Control Flow/1 - Methods
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Control%20Flow/1%20-%20Methods
+        -
+            unit: Variables
+            base: /courses/CSE 1110/2 - Control Flow/2 - Variables
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Control%20Flow/2%20-%20Variables
+        -
+            unit: Conditional Flow
+            base: /courses/CSE 1110/2 - Control Flow/3 - Conditional Flow
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Control%20Flow/3%20-%20Conditional%20Flow
+
+    -
+        group: Data
+        units:
+        -
+            unit: Data Types
+            base: /courses/CSE 1110/3 - Data/1 - Data Types
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/3%20-%20Data/1%20-%20Data%20Types
+        -
+            unit: Data Manipulation
+            base: /courses/CSE 1110/3 - Data/2 - Data Manipulation
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/3%20-%20Data/2%20-%20Data%20Manipulation
+
+    -
+        group: Algorithms
+        units:
+        -
+            unit: Number Algorithms
+            base: /courses/CSE 1110/4 - Algorithms/1 - Number Algorithms
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/4%20-%20Algorithms/1%20-%20Number%20Algorithms
+        -
+            unit: String Algorithms
+            base: /courses/CSE 1110/4 - Algorithms/2 - String Algorithms
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/4%20-%20Algorithms/2%20-%20String%20Algorithms
+
+    -
+        group: Debugging
+        units:
+        -
+            unit: Errors
+            base: /courses/CSE 1110/5 - Debugging/1 - Errors
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/5%20-%20Debugging/1%20-%20Errors
+        -
+            unit: Debugging
+            base: /courses/CSE 1110/5 - Debugging/2 - Debugging
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/5%20-%20Debugging/2%20-%20Debugging
+
+    -
+        group: Environment
+        units:
+        -
+            unit: Compilers
+            base: /courses/CSE 1110/6 - Environment/1 - Compilers
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/6%20-%20Environment/1%20-%20Compilers
+        -
+            unit: Development
+            base: /courses/CSE 1110/6 - Environment/2 - Development
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/6%20-%20Environment/2%20-%20Development
+
+    -
+        group: Tests
+        units:
+        -
+            unit: Control Flow
+            base: /courses/CSE 1110/Tests/2 - Control Flow
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/2%20-%20Control%20Flow
+        -
+            unit: Data
+            base: /courses/CSE 1110/Tests/3 - Data
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/3%20-%20Data
+        -
+            unit: Algorithms
+            base: /courses/CSE 1110/Tests/4 - Algorithms
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/4%20-%20Algorithms
+        -
+            unit: Environment
+            base: /courses/CSE 1110/Tests/6 - Environment
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/6%20-%20Environment
+        -
+            unit: Answer Key
+            base: /courses/CSE 1110/Tests/Answer Key
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/Answer%20Key
+
+
+-
+    course: ELT 1010
+    base: /courses/ELT 1010
+    url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/home
+    groups:
+    -
+        group: Safety
+        units:
+        -
+            unit: Workplace Management
+            base: /courses/ELT 1010/1 - Safety/1 - Workplace Management
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/1%20-%20Safety/1%20-%20Workplace%20Management
+        -
+            unit: Safe Work Practices
+            base: /courses/ELT 1010/1 - Safety/2 - Safe Work Practices
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/1%20-%20Safety/2%20-%20Safe%20Work%20Practices
+        -
+            unit: Hazard Identification and Control
+            base: /courses/ELT 1010/1 - Safety/3 - Hazard Identification and Control
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/1%20-%20Safety/3%20-%20Hazard%20Identification%20and%20Control
+
+    -
+        group: Electronics
+        units:
+        -
+            unit: Curcuits
+            base: /courses/ELT 1010/2 - Electronics/1 - Curcuits
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/2%20-%20Electronics/1%20-%20Curcuits
+        -
+            unit: Electrical Components
+            base: /courses/ELT 1010/2 - Electronics/2 - Electrical Components
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/2%20-%20Electronics/2%20-%20Electrical%20Components
+        -
+            unit: Electronic Devices
+            base: /courses/ELT 1010/2 - Electronics/3 - Electronic Devices
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/2%20-%20Electronics/3%20-%20Electronic%20Devices
+        -
+            unit: Electronic Connections
+            base: /courses/ELT 1010/2 - Electronics/4 - Electronic Connections
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/2%20-%20Electronics/4%20-%20Electronic%20Connections
+
+    -
+        group: Fabrication of Components
+        units:
+        -
+            unit: Soldering
+            base: /courses/ELT 1010/3 - Fabrication of Components/1 - Soldering
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/1%20-%20Soldering
+        -
+            unit: Application of Electronic Components
+            base: /courses/ELT 1010/3 - Fabrication of Components/2 - Application of Electronic Components
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/2%20-%20Application%20of%20Electronic%20Components
+        -
+            unit: Analog Connections
+            base: /courses/ELT 1010/3 - Fabrication of Components/3 - Analog Connections
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/3%20-%20Analog%20Connections
+        -
+            unit: Digital Connections
+            base: /courses/ELT 1010/3 - Fabrication of Components/4 - Digital Connections
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/4%20-%20Digital%20Connections
+
+    -
+        group: Tests
+        units:
+        -
+            unit: Safety
+            base: /courses/ELT 1010/Tests/1 - Safety
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/Tests/1%20-%20Safety
+        -
+            unit: Electronics
+            base: /courses/ELT 1010/Tests/2 - Electronics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/Tests/2%20-%20Electronics
+        -
+            unit: Fabrication of Components
+            base: /courses/ELT 1010/Tests/3 - Fabrication of Components
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/Tests/3%20-%20Fabrication%20of%20Components
+        -
+            unit: Answer Key
+            base: /courses/ELT 1010/Tests/Answer Key
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/Tests/Answer%20Key
+
+
+-
+    course: ELT 1130
+    base: /courses/ELT 1130
+    url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/home
+    groups:
+    -
+        group: Robotics
+        units:
+        -
+            unit: Robots
+            base: /courses/ELT 1130/1 - Robotics/1 - Robots
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/1%20-%20Robots
+        -
+            unit: Electronics
+            base: /courses/ELT 1130/1 - Robotics/2 - Electronics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/2%20-%20Electronics
+        -
+            unit: Structure
+            base: /courses/ELT 1130/1 - Robotics/3 - Structure
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/3%20-%20Structure
+        -
+            unit: Programming
+            base: /courses/ELT 1130/1 - Robotics/4 - Programming
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/4%20-%20Programming
+
+    -
+        group: Building Robots
+        units:
+        -
+            unit: Design
+            base: /courses/ELT 1130/2 - Building Robots/1 - Design
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Building%20Robots/1%20-%20Design
+        -
+            unit: Fabrication
+            base: /courses/ELT 1130/2 - Building Robots/2 - Fabrication
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Building%20Robots/2%20-%20Fabrication
+
+    -
+        group: Tests
+        units:
+        -
+            unit: Robotics
+            base: /courses/ELT 1130/Tests/1 - Robotics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/1%20-%20Robotics
+        -
+            unit: Building Robots
+            base: /courses/ELT 1130/Tests/2 - Building Robots
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/2%20-%20Building%20Robots
+        -
+            unit: Answer Key
+            base: /courses/ELT 1130/Tests/Answer Key
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/Answer%20Key
+
+
+-
+    course: ELT 1140
+    base: /courses/ELT 1140
+    url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/home
+    groups:
+    -
+        group: Tests
+        units:
+        -
+            unit: Answer Key
+            base: /courses/ELT 1140/Tests/Answer Key
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/Tests/Answer%20Key
+
+
+-
+    course: ELT 1910
+    base: /courses/ELT 1910
+    url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/home
+    groups:
+    -
+        group: Project
+        units:
+        -
+            unit: Introduction
+            base: /courses/ELT 1910/1 - Project/1 - Introduction
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/1%20-%20Project/1%20-%20Introduction
+        -
+            unit: Project
+            base: /courses/ELT 1910/1 - Project/2 - Project
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/1%20-%20Project/2%20-%20Project
+
+
+-
+    course: Special Projects
+    base: /courses/Special Projects
+    url: http://joelg236.github.io/frc-west-curriculum/courses/Special%20Projects/home
+    groups:
+    -
+        group: Proposal
+        units:
+        -
+            unit: Proposal
+            base: /courses/Special Projects/1 - Proposal/1 - Proposal
+            url: http://joelg236.github.io/frc-west-curriculum/courses/Special%20Projects/1%20-%20Proposal/1%20-%20Proposal
+
+    -
+        group: Tests
+        units:
+        -
+            unit: Self-Evaluation
+            base: /courses/Special Projects/Tests/1 - Self-Evaluation
+            url: http://joelg236.github.io/frc-west-curriculum/courses/Special%20Projects/Tests/1%20-%20Self-Evaluation
+
+
+# Site Navigation

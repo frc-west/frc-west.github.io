@@ -1,0 +1,5 @@
+---
+title: Design
+layout: coursepage
+---
+
