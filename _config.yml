@@ -103,10 +103,6 @@ courses:
             unit: Environment
             base: /courses/CSE 1110/Tests/6 - Environment
             url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/6%20-%20Environment
-        -
-            unit: Answer Key
-            base: /courses/CSE 1110/Tests/Answer Key
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/Answer%20Key
 
 
 -
@@ -185,10 +181,6 @@ courses:
             unit: Fabrication of Components
             base: /courses/ELT 1010/Tests/3 - Fabrication of Components
             url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/Tests/3%20-%20Fabrication%20of%20Components
-        -
-            unit: Answer Key
-            base: /courses/ELT 1010/Tests/Answer Key
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/Tests/Answer%20Key
 
 
 -
@@ -239,10 +231,6 @@ courses:
             unit: Building Robots
             base: /courses/ELT 1130/Tests/2 - Building Robots
             url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/2%20-%20Building%20Robots
-        -
-            unit: Answer Key
-            base: /courses/ELT 1130/Tests/Answer Key
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/Answer%20Key
 
 
 -
@@ -253,10 +241,6 @@ courses:
     -
         group: Tests
         units:
-        -
-            unit: Answer Key
-            base: /courses/ELT 1140/Tests/Answer Key
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/Tests/Answer%20Key
 
 
 -
