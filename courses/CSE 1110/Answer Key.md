@@ -13,7 +13,10 @@ layout: coursepage
 6. B
 7. D
 8. D
-9. A
+9. 3
+5
+7
+9
 10. A
 
 2 - Data
