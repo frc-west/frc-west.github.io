@@ -1,5 +1,5 @@
 ---
-title: CSE 1110 - Test 5 - Environment
+title: CSE 1110 - Test 6 - Environment
 layout: coursepage
 ---
 

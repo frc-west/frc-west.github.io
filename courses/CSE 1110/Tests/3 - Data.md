@@ -1,5 +1,5 @@
 ---
-title: CSE 1110 - Test 2 - Data
+title: CSE 1110 - Test 3 - Data
 layout: coursepage
 ---
 

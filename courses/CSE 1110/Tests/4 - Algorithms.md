@@ -1,5 +1,5 @@
 ---
-title: CSE 1110 - Test 3 - Algorithms
+title: CSE 1110 - Test 4 - Algorithms
 layout: coursepage
 ---
 
