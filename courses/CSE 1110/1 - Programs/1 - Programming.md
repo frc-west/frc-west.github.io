@@ -3,6 +3,8 @@ title: Programming
 layout: coursepage
 ---
 
+Before starting this course, please install [python](http://wiki.python.org/moin/BeginnersGuide/Download). ([opening command line](http://pcsupport.about.com/od/commandlinereference/f/open-command-prompt.htm))
+
 Programming is an immense topic that covers thousands of different topics. Computer science is the study of computation, and how best to do it.
 
 So what exactly is programming, and why do we need to do it? Well, it comes down to doing something relatively simple: writing instructions that a computer can properly understand and execute.

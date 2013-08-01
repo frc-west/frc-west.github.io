@@ -73,5 +73,9 @@ You can combine strings together using `+`.
 That is equivalent to:
 
     "Hello World"
+    
+Too convert any value to a string, use `str`:
+
+    str(13)
 
 Usually, user input is represented in strings. You will see a lot of usage of strings in programming.
