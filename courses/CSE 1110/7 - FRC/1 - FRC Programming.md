@@ -63,6 +63,7 @@ Honestly, write your programs in the language with which you are most comfortabl
 
 # Resources
 Some starting resources for each:
+
 - Java: http://wpilib.screenstepslive.com/s/3120/m/7885
 - C++: http://wpilib.screenstepslive.com/s/3120/m/7913
 - Labview: http://wpilib.screenstepslive.com/s/3120/m/11825
