@@ -325,16 +325,28 @@ courses:
     url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/home
     groups:
     -
-        group: Project
+        group: FRC
         units:
         -
-            unit: Introduction
-            base: /courses/ELT 1910/1 - Project/1 - Introduction
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/1%20-%20Project/1%20-%20Introduction
+            unit: FRC
+            base: /courses/ELT 1910/1 - FRC/1 - FRC
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/1%20-%20FRC/1%20-%20FRC
+
+    -
+        group: Kitbot
+        units:
         -
-            unit: Project
-            base: /courses/ELT 1910/1 - Project/2 - Project
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/1%20-%20Project/2%20-%20Project
+            unit: Activity
+            base: /courses/ELT 1910/2 - Kitbot/1 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/2%20-%20Kitbot/1%20-%20Activity
+
+    -
+        group: Build Season
+        units:
+        -
+            unit: Activity
+            base: /courses/ELT 1910/3 - Build Season/1 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201910/3%20-%20Build%20Season/1%20-%20Activity
 
 
 -
