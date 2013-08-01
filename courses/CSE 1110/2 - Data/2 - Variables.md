@@ -1,0 +1,5 @@
+---
+title: Variables
+layout: coursepage
+---
+
