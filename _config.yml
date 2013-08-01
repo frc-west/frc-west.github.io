@@ -13,96 +13,108 @@ courses:
     url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/home
     groups:
     -
-        group: Introduction
+        group: Programs
         units:
         -
-            unit: Intro
-            base: /courses/CSE 1110/1 - Introduction/1 - Intro
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/1%20-%20Introduction/1%20-%20Intro
-
-    -
-        group: Control Flow
-        units:
+            unit: Programming
+            base: /courses/CSE 1110/1 - Programs/1 - Programming
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/1%20-%20Programs/1%20-%20Programming
         -
-            unit: Methods
-            base: /courses/CSE 1110/2 - Control Flow/1 - Methods
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Control%20Flow/1%20-%20Methods
+            unit: Languages
+            base: /courses/CSE 1110/1 - Programs/2 - Languages
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/1%20-%20Programs/2%20-%20Languages
         -
-            unit: Variables
-            base: /courses/CSE 1110/2 - Control Flow/2 - Variables
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Control%20Flow/2%20-%20Variables
+            unit: Libraries
+            base: /courses/CSE 1110/1 - Programs/3 - Libraries
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/1%20-%20Programs/3%20-%20Libraries
         -
-            unit: Conditional Flow
-            base: /courses/CSE 1110/2 - Control Flow/3 - Conditional Flow
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Control%20Flow/3%20-%20Conditional%20Flow
+            unit: Binary
+            base: /courses/CSE 1110/1 - Programs/4 - Binary
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/1%20-%20Programs/4%20-%20Binary
 
     -
         group: Data
         units:
         -
             unit: Data Types
-            base: /courses/CSE 1110/3 - Data/1 - Data Types
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/3%20-%20Data/1%20-%20Data%20Types
+            base: /courses/CSE 1110/2 - Data/1 - Data Types
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Data/1%20-%20Data%20Types
         -
-            unit: Data Manipulation
-            base: /courses/CSE 1110/3 - Data/2 - Data Manipulation
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/3%20-%20Data/2%20-%20Data%20Manipulation
+            unit: Variables
+            base: /courses/CSE 1110/2 - Data/2 - Variables
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Data/2%20-%20Variables
+        -
+            unit: Input and Output
+            base: /courses/CSE 1110/2 - Data/3 - Input and Output
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/2%20-%20Data/3%20-%20Input%20and%20Output
+
+    -
+        group: Basic Calculations
+        units:
+        -
+            unit: Intro
+            base: /courses/CSE 1110/3 - Basic Calculations/1 - Intro
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/3%20-%20Basic%20Calculations/1%20-%20Intro
+        -
+            unit: Activity
+            base: /courses/CSE 1110/3 - Basic Calculations/2 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/3%20-%20Basic%20Calculations/2%20-%20Activity
 
     -
         group: Algorithms
         units:
         -
-            unit: Number Algorithms
-            base: /courses/CSE 1110/4 - Algorithms/1 - Number Algorithms
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/4%20-%20Algorithms/1%20-%20Number%20Algorithms
+            unit: Control Flow
+            base: /courses/CSE 1110/4 - Algorithms/1 - Control Flow
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/4%20-%20Algorithms/1%20-%20Control%20Flow
         -
-            unit: String Algorithms
-            base: /courses/CSE 1110/4 - Algorithms/2 - String Algorithms
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/4%20-%20Algorithms/2%20-%20String%20Algorithms
+            unit: Functions
+            base: /courses/CSE 1110/4 - Algorithms/2 - Functions
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/4%20-%20Algorithms/2%20-%20Functions
+        -
+            unit: Input and Output
+            base: /courses/CSE 1110/4 - Algorithms/3 - Input and Output
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/4%20-%20Algorithms/3%20-%20Input%20and%20Output
 
     -
-        group: Debugging
+        group: Calculator
         units:
         -
-            unit: Errors
-            base: /courses/CSE 1110/5 - Debugging/1 - Errors
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/5%20-%20Debugging/1%20-%20Errors
+            unit: Intro
+            base: /courses/CSE 1110/5 - Calculator/1 - Intro
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/5%20-%20Calculator/1%20-%20Intro
         -
-            unit: Debugging
-            base: /courses/CSE 1110/5 - Debugging/2 - Debugging
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/5%20-%20Debugging/2%20-%20Debugging
+            unit: Activity
+            base: /courses/CSE 1110/5 - Calculator/2 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/5%20-%20Calculator/2%20-%20Activity
 
     -
         group: Environment
         units:
         -
-            unit: Compilers
-            base: /courses/CSE 1110/6 - Environment/1 - Compilers
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/6%20-%20Environment/1%20-%20Compilers
+            unit: Running Programs
+            base: /courses/CSE 1110/6 - Environment/1 - Running Programs
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/6%20-%20Environment/1%20-%20Running%20Programs
         -
-            unit: Development
-            base: /courses/CSE 1110/6 - Environment/2 - Development
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/6%20-%20Environment/2%20-%20Development
+            unit: Programming Tools
+            base: /courses/CSE 1110/6 - Environment/2 - Programming Tools
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/6%20-%20Environment/2%20-%20Programming%20Tools
+        -
+            unit: Debugging
+            base: /courses/CSE 1110/6 - Environment/3 - Debugging
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/6%20-%20Environment/3%20-%20Debugging
+
+    -
+        group: FRC
+        units:
+        -
+            unit: FRC Programming
+            base: /courses/CSE 1110/7 - FRC/1 - FRC Programming
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/7%20-%20FRC/1%20-%20FRC%20Programming
 
     -
         group: Tests
         units:
-        -
-            unit: Control Flow
-            base: /courses/CSE 1110/Tests/2 - Control Flow
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/2%20-%20Control%20Flow
-        -
-            unit: Data
-            base: /courses/CSE 1110/Tests/3 - Data
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/3%20-%20Data
-        -
-            unit: Algorithms
-            base: /courses/CSE 1110/Tests/4 - Algorithms
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/4%20-%20Algorithms
-        -
-            unit: Environment
-            base: /courses/CSE 1110/Tests/6 - Environment
-            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/6%20-%20Environment
 
 
 -
@@ -189,48 +201,72 @@ courses:
     url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/home
     groups:
     -
-        group: Robotics
+        group: Robots
         units:
         -
-            unit: Robots
-            base: /courses/ELT 1130/1 - Robotics/1 - Robots
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/1%20-%20Robots
+            unit: Principles
+            base: /courses/ELT 1130/1 - Robots/1 - Principles
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robots/1%20-%20Principles
         -
-            unit: Electronics
-            base: /courses/ELT 1130/1 - Robotics/2 - Electronics
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/2%20-%20Electronics
-        -
-            unit: Structure
-            base: /courses/ELT 1130/1 - Robotics/3 - Structure
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/3%20-%20Structure
-        -
-            unit: Programming
-            base: /courses/ELT 1130/1 - Robotics/4 - Programming
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robotics/4%20-%20Programming
-
-    -
-        group: Building Robots
-        units:
+            unit: Control
+            base: /courses/ELT 1130/1 - Robots/2 - Control
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robots/2%20-%20Control
         -
             unit: Design
-            base: /courses/ELT 1130/2 - Building Robots/1 - Design
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Building%20Robots/1%20-%20Design
+            base: /courses/ELT 1130/1 - Robots/3 - Design
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robots/3%20-%20Design
         -
-            unit: Fabrication
-            base: /courses/ELT 1130/2 - Building Robots/2 - Fabrication
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Building%20Robots/2%20-%20Fabrication
+            unit: Usage
+            base: /courses/ELT 1130/1 - Robots/4 - Usage
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/1%20-%20Robots/4%20-%20Usage
+
+    -
+        group: Subsystems
+        units:
+        -
+            unit: Motors
+            base: /courses/ELT 1130/2 - Subsystems/1 - Motors
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Subsystems/1%20-%20Motors
+        -
+            unit: Pneumatics
+            base: /courses/ELT 1130/2 - Subsystems/2 - Pneumatics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Subsystems/2%20-%20Pneumatics
+        -
+            unit: Electronics
+            base: /courses/ELT 1130/2 - Subsystems/3 - Electronics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Subsystems/3%20-%20Electronics
+        -
+            unit: Drivetrains
+            base: /courses/ELT 1130/2 - Subsystems/4 - Drivetrains
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/2%20-%20Subsystems/4%20-%20Drivetrains
+
+    -
+        group: Power Sources
+        units:
+        -
+            unit: Electricity
+            base: /courses/ELT 1130/3 - Power Sources/1 - Electricity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/3%20-%20Power%20Sources/1%20-%20Electricity
+        -
+            unit: Pneumatic & Hydraulic
+            base: /courses/ELT 1130/3 - Power Sources/2 - Pneumatic & Hydraulic
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/3%20-%20Power%20Sources/2%20-%20Pneumatic%20&%20Hydraulic
+
+    -
+        group: Vex Robot
+        units:
+        -
+            unit: Intro
+            base: /courses/ELT 1130/4 - Vex Robot/1 - Intro
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/4%20-%20Vex%20Robot/1%20-%20Intro
+        -
+            unit: Activity
+            base: /courses/ELT 1130/4 - Vex Robot/2 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/4%20-%20Vex%20Robot/2%20-%20Activity
 
     -
         group: Tests
         units:
-        -
-            unit: Robotics
-            base: /courses/ELT 1130/Tests/1 - Robotics
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/1%20-%20Robotics
-        -
-            unit: Building Robots
-            base: /courses/ELT 1130/Tests/2 - Building Robots
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/2%20-%20Building%20Robots
 
 
 -

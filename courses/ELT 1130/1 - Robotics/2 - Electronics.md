@@ -1,5 +1,0 @@
----
-title: Electronics
-layout: coursepage
----
-
