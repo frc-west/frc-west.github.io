@@ -275,6 +275,46 @@ courses:
     url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/home
     groups:
     -
+        group: Robots
+        units:
+        -
+            unit: History
+            base: /courses/ELT 1140/1 - Robots/1 - History
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/1%20-%20Robots/1%20-%20History
+        -
+            unit: Industry
+            base: /courses/ELT 1140/1 - Robots/2 - Industry
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/1%20-%20Robots/2%20-%20Industry
+        -
+            unit: Power Sources
+            base: /courses/ELT 1140/1 - Robots/3 - Power Sources
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/1%20-%20Robots/3%20-%20Power%20Sources
+
+    -
+        group: Programming
+        units:
+        -
+            unit: Motor Control
+            base: /courses/ELT 1140/2 - Programming/1 - Motor Control
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/2%20-%20Programming/1%20-%20Motor%20Control
+        -
+            unit: Downloading
+            base: /courses/ELT 1140/2 - Programming/2 - Downloading
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/2%20-%20Programming/2%20-%20Downloading
+
+    -
+        group: Robotic System
+        units:
+        -
+            unit: Intro
+            base: /courses/ELT 1140/3 - Robotic System/1 - Intro
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/3%20-%20Robotic%20System/1%20-%20Intro
+        -
+            unit: Activity
+            base: /courses/ELT 1140/3 - Robotic System/2 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/3%20-%20Robotic%20System/2%20-%20Activity
+
+    -
         group: Tests
         units:
 
