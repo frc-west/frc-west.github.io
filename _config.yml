@@ -289,6 +289,14 @@ courses:
             url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/4%20-%20Vex%20Robot/2%20-%20Activity
 
     -
+        group: FRC
+        units:
+        -
+            unit: FRC
+            base: /courses/ELT 1130/5 - FRC/1 - FRC
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/5%20-%20FRC/1%20-%20FRC
+
+    -
         group: Tests
         units:
 
