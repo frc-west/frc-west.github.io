@@ -159,24 +159,48 @@ courses:
             url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/2%20-%20Electronics/4%20-%20Electronic%20Connections
 
     -
+        group: Sensors
+        units:
+        -
+            unit: Activity
+            base: /courses/ELT 1010/3 - Sensors/1 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Sensors/1%20-%20Activity
+
+    -
         group: Fabrication of Components
         units:
         -
             unit: Soldering
-            base: /courses/ELT 1010/3 - Fabrication of Components/1 - Soldering
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/1%20-%20Soldering
+            base: /courses/ELT 1010/4 - Fabrication of Components/1 - Soldering
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/4%20-%20Fabrication%20of%20Components/1%20-%20Soldering
         -
             unit: Application of Electronic Components
-            base: /courses/ELT 1010/3 - Fabrication of Components/2 - Application of Electronic Components
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/2%20-%20Application%20of%20Electronic%20Components
+            base: /courses/ELT 1010/4 - Fabrication of Components/2 - Application of Electronic Components
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/4%20-%20Fabrication%20of%20Components/2%20-%20Application%20of%20Electronic%20Components
         -
             unit: Analog Connections
-            base: /courses/ELT 1010/3 - Fabrication of Components/3 - Analog Connections
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/3%20-%20Analog%20Connections
+            base: /courses/ELT 1010/4 - Fabrication of Components/3 - Analog Connections
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/4%20-%20Fabrication%20of%20Components/3%20-%20Analog%20Connections
         -
             unit: Digital Connections
-            base: /courses/ELT 1010/3 - Fabrication of Components/4 - Digital Connections
-            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/3%20-%20Fabrication%20of%20Components/4%20-%20Digital%20Connections
+            base: /courses/ELT 1010/4 - Fabrication of Components/4 - Digital Connections
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/4%20-%20Fabrication%20of%20Components/4%20-%20Digital%20Connections
+
+    -
+        group: Soldering
+        units:
+        -
+            unit: Activity
+            base: /courses/ELT 1010/5 - Soldering/1 - Activity
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/5%20-%20Soldering/1%20-%20Activity
+
+    -
+        group: FRC
+        units:
+        -
+            unit: FRC Electronics
+            base: /courses/ELT 1010/6 - FRC/1 - FRC Electronics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201010/6%20-%20FRC/1%20-%20FRC%20Electronics
 
     -
         group: Tests
