@@ -365,10 +365,6 @@ courses:
     -
         group: Tests
         units:
-        -
-            unit: Self-Evaluation
-            base: /courses/Special Projects/Tests/1 - Self-Evaluation
-            url: http://joelg236.github.io/frc-west-curriculum/courses/Special%20Projects/Tests/1%20-%20Self-Evaluation
 
 
 # Site Navigation
