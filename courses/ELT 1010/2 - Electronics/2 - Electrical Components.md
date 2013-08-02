@@ -18,15 +18,12 @@ There are components that adjust the electrical parameters of a circuit. Remembe
 Resistors come in many different shapes, sizes and functions. To tell what the resistance of a resistor is, see [here](http://en.wikipedia.org/wiki/Electronic_color_code#Resistor_color-coding). Resistor work using very specific semi-conductive materials that are manufactured for their purpose specifically. There are such things as variable resistors, such as potentiometers. These are less accurate and reliable than normal resistors.
 
 ## Capacitor
-
 Capacitors work by storing energy thought the build up of a static electric field on plates inside of the capacitor. common applications of  capacitors are to store energy, block DC voltage while allowing AC voltage to pass through and to smooth outputs  of power supplies. They also come in many different shaps and sizes. 
 
 ## Diodes
-
-A Diode is are electrical component that only allows energy to pass through in one direction.  Diodes can also used to emit light and are called Light Emiting Diode or LED.  
+A diode is an electrical component that only allows energy to pass through in one direction. Diodes can also be used to emit light and are called Light Emitting Diodes (LED).  
 
 ## Transistors
-
 Transistors at their simplest form are switches that amplify electrical signals and power. Most transistors have 3 pins and when a voltage is applied to one of the Power is allowed to flow through the other 2 pins. 
 
 ## Sensors
