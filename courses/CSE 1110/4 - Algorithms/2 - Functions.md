@@ -64,8 +64,26 @@ So how do we do this kind of thing in Python? It looks something like this:
         type(pin())
         removeCard()
 
+`number` and `item` are both referred to as *arguments*. These arguments are referable inside of the function.
+
 `print` is also a function. It prints a string value to the console.
 
 Remember, always make functions when you do things more than once.
 
 Also note that you need to define a method before using it somewhere else (ex. don't call `foo()` before defining `foo()`)
+
+# Returning
+A function can *return* a value. This means that calling the function can be used as a value.
+
+For example:
+
+    buy(chocolateBar())
+
+`chocolateBar()` returns a chocolate bar. This allows `buy` to actually buy the chocolate bar.
+
+In a function, you return values using `return`.
+
+    def chocolateBar():
+        return ChocolateBar(1)
+
+This function creates 1 `ChocolateBar` and returns it.
