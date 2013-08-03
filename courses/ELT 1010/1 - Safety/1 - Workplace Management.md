@@ -7,20 +7,20 @@ Before learning about the basics, you need to learn how to be safe. Safety is a 
 
 An especially important part of remaining safe is your workplace. The area and atmosphere that you work in is crucial to being safe. It isn't sufficient to concentrate on the procedures and precautions of safety. The "build space" that you use is very important and should not be neglected.
 
-## Organisation
-At the heart of workplace management, you need to be organised. Everything should have a standard place to be stored, and there should be organisation in place to keep track of everything. Knowing where things are prevents wastes of time, messes and possible hazards.
+## Organization
+At the heart of workplace management, you need to be organized. Everything should have a standard place to be stored, and there should be organization in place to keep track of everything. Knowing where things are prevents wastes of time, messes and possible hazards.
 
 ### Standard Systems
-There is an infinite amount of possible organising configurations. Most of these work fine. The focus of organising should be that everyone involved knows how it is organised. This is called a *standard*. You should establish and abide by a standard when organising a workplace. Without a standard, the effort of organisation is mostly wasted.
+There is an infinite amount of possible organizing configurations. Most of these work fine. The focus of organizing should be that everyone involved knows how it is organized. This is called a *standard*. You should establish and abide by a standard when organizing a workplace. Without a standard, the effort of organization is mostly wasted.
 
 ### Grouping
-A very common way to organise things is by grouping them in categories. This is popular because it works well, and helps in every respect. Finding things is easy, and hazardous materials have standard placement together to make sure that everywhere else is safe from those materials. Systems like shelves, bins and bags are all useful for grouping.
+A very common way to organize things is by grouping them in categories. This is popular because it works well, and helps in every respect. Finding things is easy, and hazardous materials have standard placement together to make sure that everywhere else is safe from those materials. Systems like shelves, bins and bags are all useful for grouping.
 
 ### Proper Placement
-A component of an organisation system is that things are properly placed when finished with. This is a common problem in workplaces, even when a standard system with grouping is set up. It is impossible to keep a workplace organised without the participation of everyone involved. When finished with tools or supplies, you should always put them back exactly where they belong.
+A component of an organization system is that things are properly placed when finished with. This is a common problem in workplaces, even when a standard system with grouping is set up. It is impossible to keep a workplace organized without the participation of everyone involved. When finished with tools or supplies, you should always put them back exactly where they belong.
 
 ## Prevention
-Once a workplace is organised and properly circulating, accidents are still easily encountered. It is the duty of everyone to try to prevent such accidents, in as many ways as possible.
+Once a workplace is organized and properly circulating, accidents are still easily encountered. It is the duty of everyone to try to prevent such accidents, in as many ways as possible.
 
 ### Safety Tools
 There should be tools in every workplace that can prevent accidents. This includes proper ventilation, clean work spaces and safety equipment. If you are doing anything that could result in any kind of injury, you should be wearing the appropriate safety gear.
