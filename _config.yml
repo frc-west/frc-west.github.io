@@ -115,6 +115,18 @@ courses:
     -
         group: Tests
         units:
+        -
+            unit: Programs
+            base: /courses/CSE 1110/Tests/1 - Programs
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/1%20-%20Programs
+        -
+            unit: Data
+            base: /courses/CSE 1110/Tests/2 - Data
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/2%20-%20Data
+        -
+            unit: Environment
+            base: /courses/CSE 1110/Tests/3 - Environment
+            url: http://joelg236.github.io/frc-west-curriculum/courses/CSE%201110/Tests/3%20-%20Environment
 
 
 -
@@ -299,6 +311,10 @@ courses:
     -
         group: Tests
         units:
+        -
+            unit: Robotics
+            base: /courses/ELT 1130/Tests/1 - Robotics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201130/Tests/1%20-%20Robotics
 
 
 -
@@ -349,6 +365,10 @@ courses:
     -
         group: Tests
         units:
+        -
+            unit: Robotics
+            base: /courses/ELT 1140/Tests/1 - Robotics
+            url: http://joelg236.github.io/frc-west-curriculum/courses/ELT%201140/Tests/1%20-%20Robotics
 
 
 -
@@ -393,10 +413,6 @@ courses:
             unit: Proposal
             base: /courses/Special Projects/1 - Proposal/1 - Proposal
             url: http://joelg236.github.io/frc-west-curriculum/courses/Special%20Projects/1%20-%20Proposal/1%20-%20Proposal
-
-    -
-        group: Tests
-        units:
 
 
 # Site Navigation
