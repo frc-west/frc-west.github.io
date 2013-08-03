@@ -5,7 +5,9 @@ layout: coursepage
 
 **Prerequisite:**
 
-    None
+    Two CTS courses, one of which must be at the introductory level and be in the same occupational area as the project course. The other CTS course(s) can be either at the same level or at the intermediate level from any occupational area.
+    
+    Students typically use ELT 1010 and ELT 1130
 
 **Description:**
 
