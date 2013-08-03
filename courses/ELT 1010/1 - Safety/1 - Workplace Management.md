@@ -3,8 +3,7 @@ title: Workplace Management
 layout: coursepage
 ---
 
-Before learning about the basics, you need to learn how to be safe. Safety is a critical component in all industries, and is especially important when dealing with electronics. 
-The next three modules will give an outline of the expected safety precautions you should take, and how to remain safe when using electronics.
+Before learning about the basics, you need to learn how to be safe. Safety is a critical component in all industries, and is especially important when dealing with electronics. The next three modules will give an outline of the expected safety precautions you should take, and how to remain safe when using electronics.
 
 An especially important part of remaining safe is your workplace. The area and atmosphere that you work in is crucial to being safe. It isn't sufficient to concentrate on the procedures and precautions of safety. The "build space" that you use is very important and should not be neglected.
 
