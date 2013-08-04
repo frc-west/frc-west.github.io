@@ -1,8 +1,3 @@
----
-title: ELT 1010 - Answer Key
-layout: coursepage
----
-
 1 - Safety
 
 1. D
