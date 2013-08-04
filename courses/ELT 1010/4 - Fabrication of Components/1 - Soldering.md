@@ -20,7 +20,7 @@ Part 2 - How to solder.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fYz5nIHH0iY" frameborder="0" allowfullscreen></iframe>
 
 ## Flux
-[Flux](https://en.wikipedia.org/wiki/Flux_(metallurgy)) is used in soldering to make solder joints clean. It prevents the metal from oxidising, since the metal is at such high temperatures. Some fluxes not only prevent oxidisation, but also provide some chemical cleaning. It's important to know what kind of flux you are using, to know what to expect.
+[Flux](https://en.wikipedia.org/wiki/Flux_(metallurgy\)) is used in soldering to make solder joints clean. It prevents the metal from oxidising, since the metal is at such high temperatures. Some fluxes not only prevent oxidisation, but also provide some chemical cleaning. It's important to know what kind of flux you are using, to know what to expect.
 
 *Fluxes are almost always included inside of solder*. Remember to look at your solder to see if you need separate flux.
 
