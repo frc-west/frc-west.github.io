@@ -19,4 +19,4 @@ There are also usually programming language libraries. For example, python has a
 
 This is all known as low-level abstraction. This simply means that the hard-to-do details are taken care of for you, and you just need to provide input.
 
-You will probably be unknowingly using a lot of libraries when programming. They make everyone's life easier, because re-writing already established code is tedious and a waste of time.
+You will probably be unknowingly using a lot of libraries when programming. They make everyone's life easier, because re-writing already established code is tedious and a waste of time. It's building on the shoulders of giants.
