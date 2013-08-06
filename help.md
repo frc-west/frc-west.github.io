@@ -5,6 +5,8 @@ layout: default
 
 FRC West has set up its curriculum hosted online. If you are experiencing difficulties with web pages not loading, it is likely a hosting problem that we have no control over.
 
+If the web pages are not loading properly, please make sure you have javascript enabled.
+
 ## Navigating
 You can find your courses at the top right-hand corner of every page. Every course is available there.
 
