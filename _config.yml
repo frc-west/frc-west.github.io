@@ -245,11 +245,8 @@ courses:
         group: Vex Robot
         units:
         -
-            unit: Intro
-            url: /courses/ELT 1130/4 - Vex Robot/1 - Intro
-        -
             unit: Activity
-            url: /courses/ELT 1130/4 - Vex Robot/2 - Activity
+            url: /courses/ELT 1130/4 - Vex Robot/1 - Activity
 
     -
         group: FRC
