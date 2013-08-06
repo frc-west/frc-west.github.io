@@ -52,7 +52,7 @@ And most people would quickly admit that even these instructions would require a
 
 # Instructions
 So assume we need to get from the top left square to the top right square.
-![](grid.png)
+![](/img/grid.png)
 
 A computer would require something like this:
 

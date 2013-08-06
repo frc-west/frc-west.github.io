@@ -6,7 +6,7 @@ layout: coursepage
 There are FRC specific components that every team uses on their robot. The rules are relatively particular about how robots are wired, mostly for safety reasons.
 
 Here's an overview of all FRC components:
-![](frc-control-system.jpg)
+![](/img/frc-control-system.jpg)
 
 For more information about the FRC control system, see:
 

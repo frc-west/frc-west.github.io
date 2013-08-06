@@ -3,7 +3,7 @@ title: ELT 1010 - Test 1 - Safety
 layout: coursepage
 ---
 
-### + What is the best way to organise a workplace?
+### 1. What is the best way to organise a workplace?
 
 + A categorised bin system
 + An inventory of all the materials

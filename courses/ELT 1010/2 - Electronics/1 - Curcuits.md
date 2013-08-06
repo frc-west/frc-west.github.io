@@ -52,5 +52,4 @@ A parallel circuits is where loads (eg: Light bulb) positive turmels are weird t
 
 In a series circuit the wires are connected from negative end of the first load to the positive end of the second load.  The positive and the negative ends of the first and last loads are connected to a power sources.  
 
-For information about parallel and series circuits, see
-http://physics.bu.edu/py106/notes/Circuits.html
+For information about parallel and series circuits, see [here](http://physics.bu.edu/py106/notes/Circuits.html).
