@@ -28,7 +28,7 @@ Canadian wiring is governed by the CEC (Canadian Electric Code). In general elec
 There are different ways to connect two circuits together to form a circuit between them.
 
 ### Standard Connections
-There are standard in place that manufacturers follow to be compliant to.
+There are standards in place that manufacturers are compliant with.
 
 #### Wall Outlets
 There are standard outlets that are used most commonly for power sources, and more recently data. The standard wall outlet is [NEMA 5](http://en.wikipedia.org/wiki/NEMA_connector#NEMA_5) in Canada.
@@ -39,11 +39,11 @@ The Universal Serial Bus is a standard for data and power transfer between devic
 ![](http://upload.wikimedia.org/wikipedia/commons/8/8e/USB_Front_Port.jpg "USB port")
 
 #### Serial Ports
-Although they are no longer used in mainstream computing, serial ports were very important in the history of electronics. Unlike parallel ports, they transfer one bit at a time. Serial ports are still sometimes used for VGA connections, although VGA uses a different standard than older computers.
+Although they are no longer used in mainstream computing, serial ports were very important in the history of electronics. Unlike parallel ports, they transfer one bit at a time. Serial ports are still sometimes used for [VGA](http://en.wikipedia.org/wiki/Video_Graphics_Array) connections, although VGA uses a different standard than older computers.
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Serial_port.jpg/320px-Serial_port.jpg "Old serial port")
 
 #### Modular Connectors
-Modular connectors are the standard used primarily by different kinds of data transfer, including telephones. There are different standards for sizes of modular connectors.
+Modular connectors are the standard used primarily by different kinds of data transfer, including telephones and [Ethernet](http://en.wikipedia.org/wiki/Ethernet) cables. There are different standards for sizes of modular connectors.
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uncrimped_rj-45_connector_close-up.jpg/320px-Uncrimped_rj-45_connector_close-up.jpg "Modular connector head")

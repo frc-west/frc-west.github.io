@@ -3,7 +3,7 @@ title: ELT 1010 - Test 2 - Electronics
 layout: coursepage
 ---
 
-### + Electricity flows because of
+### 1. Electricity flows because of
 
 + Differences in amperage
 + Differences in voltage
@@ -19,7 +19,7 @@ layout: coursepage
 
 ### 3. What does this symbol mean in electrical diagrams?
 
-![Battery](http://sub.allaboutcircuits.com/images/0002+png)
+![Battery](http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Battery_symbol2.svg/170px-Battery_symbol2.svg.png)
 
 + A battery
 + A resistor

@@ -20,4 +20,4 @@ There are less standard analog connections than there are digital because an ana
 Due to the inherent way that analog connections work, it is difficult to provide any kind of exact signal. There is other electromagnetic noise everywhere, which can interfere with analog signals. It is the reason that radios can produce loud sounds that aren't from the radio station.
 
 ## Analog Devices
-Many mechanical, pneumatic and hydraulic systems use analog devices. Basically, anything that has a variable position is well suited for an analog connection.
+Many mechanical, pneumatic and hydraulic systems use analog devices. Basically, anything that has a variable position is well suited for an analog connection. Volume adjustment is a common use of analog devices.

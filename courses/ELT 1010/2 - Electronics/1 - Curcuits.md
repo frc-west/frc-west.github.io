@@ -48,8 +48,10 @@ The metal filament that the electricity flows through is commonly known as *resi
 ![image of the relationship betwwen voltage current and resistance](http://www.instructables.com/files/deriv/FVR/TJRZ/H5TU8PNC/FVRTJRZH5TU8PNC.LARGE.jpg)
 ## Parallel and Series
 
-A parallel circuits is where loads (eg: Light bulb) positive turmels are weird together to a signal point and connecter to a positive Side of a power source. The same is down with the negative termales of the load and connected to the negative side of a power source. 
+![](http://www.instructables.com/files/deriv/FUW/8CIV/FB0B2607/FUW8CIVFB0B2607.LARGE.gif)
 
-In a series circuit the wires are connected from negative end of the first load to the positive end of the second load.  The positive and the negative ends of the first and last loads are connected to a power sources.  
+A parallel circuit is where loads (eg: a light bulb) are all connected directly to the power source, instead of connecting together. (Left side)
+
+In a series circuit the wires are connected together throughout the circuit. (Right side)
 
 For information about parallel and series circuits, see [here](http://physics.bu.edu/py106/notes/Circuits.html).

@@ -10,9 +10,9 @@ layout: coursepage
 + A central area for storage of all materials
 + There is no *best* way
 
-### 2. Why do workplaces get organised
+### 2. Why do workplaces get organised?
 
-+ To keep materials from being stolen
++ To keep find things quickly
 + To keep materials from being lost
 + To keep materials in safe places
 + All of the above
@@ -51,7 +51,7 @@ layout: coursepage
 ### 8. Which behaviour is acceptable in the workplace?
 
 + Soldering wires beside a friend
-+ Running to storage container to get screws
++ Running to a storage container to get screws
 + Yelling at friend while operating a chop saw
 + Using power tools after having an Advil for headaches
 

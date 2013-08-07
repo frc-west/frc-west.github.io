@@ -24,16 +24,16 @@ Capacitors work by storing energy thought the build up of a static electric fiel
 A diode is an electrical component that only allows energy to pass through in one direction. Diodes can also be used to emit light and are called Light Emitting Diodes (LED).  
 
 ## Transistors
-Transistors at their simplest form are switches that amplify electrical signals and power. Most transistors have 3 pins and when a voltage is applied to one of the Power is allowed to flow through the other 2 pins. 
+Transistors at their simplest form are switches that amplify electrical signals and power. Most transistors have 3 pins. When a voltage is applied to one, the power is allowed to flow through the other 2 pins.
 
 ## Sensors
 In a lot of electronics, you need to find out things about the external world. This could be for a lot of reasons, like other sensor calibration. It could even be for computerised functions like an accelerometer in a cell phone for flipping the screen.
 
 ### Rotary Encoder
-Encoders are useful for measuring speed and position of a rotating shaft. They are useful because they allow unlimited rotation, and are good at measuring data quickly. Typically, encoders are measured using 1 to 16 different sensors that measure on or off on a certain position of the shaft. The on or off signal comes from things like magnetic signal, visual signal eg Light or physical bumps. They can be found in bothAnalog and digital packages.
+Encoders are useful for measuring speed and position of a rotating shaft. They are useful because they allow unlimited rotation, and are good at measuring data quickly. Typically, encoders are measured using 1 to 16 different sensors that measure on or off on a certain position of the shaft. The on or off signal comes from things like magnetic signals or visual signals. They can be found in both analog and digital packages.
 
 ### Accelerometer
-Accelerometers measure [G-force](http://en.wikipedia.org/wiki/G-force). They use specialised technology that allows them to be used in many different kinds of applications.
+Accelerometers measure [G-force](http://en.wikipedia.org/wiki/G-force). They use specialised technology that allows them to be used in many different kinds of applications. Smartphones use accelerometers to measure when to rotate the screen.
 
 ### Switch
 The most simple electric sensor is the switch. Even though they are very simple, they are still useful.
@@ -57,4 +57,4 @@ Power (voltage) can be supplied by a variety of different methods. Much of our l
 [Rectifiers](http://en.wikipedia.org/wiki/AC-DC_conversion) are used to convert electricity from alternating current to direct current. There are many different kinds of rectifiers. Some produce a constant voltage, and some simpler devices simply unify the signal, making it very inconstant. (half-wave or full wave)
 
 ### Current Protection
-There are many risks to electronic devices from over-current. There isn't any de facto way to do current protection. [Fuses](http://en.wikipedia.org/wiki/Fuse_(electrical)), [circuit breakers](http://en.wikipedia.org/wiki/Circuit_breaker), [temperature sensors](http://en.wikipedia.org/wiki/Temperature_sensor) and [current limiters](http://en.wikipedia.org/wiki/Current_limiter) are all commonly used mechanisms.
+There are many risks to electronic devices from over-current. There isn't any de facto way to do current protection. [Fuses](http://en.wikipedia.org/wiki/Fuse_\(electrical\)), [circuit breakers](http://en.wikipedia.org/wiki/Circuit_breaker), [temperature sensors](http://en.wikipedia.org/wiki/Temperature_sensor) and [current limiters](http://en.wikipedia.org/wiki/Current_limiter) are all commonly used mechanisms.

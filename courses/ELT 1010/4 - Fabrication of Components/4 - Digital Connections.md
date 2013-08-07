@@ -13,13 +13,13 @@ Digital signals are encoded in a format, which the receiver is equipped to under
 Like analog signals, digital signals can loose strength over length. Thankfully, small voltage drops aren't extremely bad for data transfer. It takes very large distances to completely loose digital signals.
 
 ### Analog through Digital
-Numbers can be represented in digital. These numbers could be interpreted by a device and sent through an analog signal, reversing a digital signal into an analog one. Example, your music is stored as a digital file on your I-pod and is converted in to a analog single that is audibel to the human ear.
+Numbers can be represented in digital. These numbers could be interpreted by a device and sent through an analog signal, reversing a digital signal into an analog one. Example, your music is stored as a digital file on your iPod and is converted in to a analog single that is audible to the human ear.
 
 ## Digital Standards
-Digital standards are much different than analog ones. They concentrate on the actual data being transferred, and the connection used is rarely important. This is because of [abstraction](http://en.wikipedia.org/wiki/Abstraction_(computer_science)) of the components.
+Digital standards are much different than analog ones. They concentrate on the actual data being transferred, and the connection used is rarely important. This is because of [abstraction](http://en.wikipedia.org/wiki/Abstraction_\(computer_science\)) of the components.
 
 ### Data Streams
-Most likely, a receiver of digital information will be connected to that data through a data stream. This is kind of like a dam at a river. The water will build up at the dam until the water is somehow processed through. In the same way, a stream of data comes towards the receiver, forming a buffer of information that must be interpreted and processed. Unlike a dam however, the water cannot overflow.
+Most likely, a receiver of digital information will be connected to that data through a data stream. This is kind of like a dam at a river. The water will build up at the dam until the water is somehow processed through. In the same way, a stream of data comes towards the receiver, forming a buffer of information that must be interpreted and processed. Unlike a dam however, the data cannot overflow.
 
 ### Networking
 Things like local area connections and the internet use data connections to send and receive data from other computers. There are an enormous amount of different kinds of standards and ways of networking in computing.
