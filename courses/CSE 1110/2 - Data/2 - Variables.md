@@ -18,7 +18,14 @@ A single equals sign declares the value of a variable. You can also change the v
 
 Variables can represent things like absolute constants, or changing parts of the program.
 
-In python, there is no *type* of variables. They can be set to any kind of data that you want, whenever you want.
+In python, variables are not bound to any specific *type* of data. They can be set to any kind of data that you want, whenever you want.
+
+For example:
+
+    x = 'Hello'
+    x = 12
+
+`x` has been set to a string, but right after is set to a number. This is acceptable in python. Some languages are not this way, and are described as "type-safe".
 
 To check the type of the currently set value, use `isinstance()`:
 

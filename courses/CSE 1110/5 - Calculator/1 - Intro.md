@@ -10,7 +10,7 @@ You'll be making a basic text-based single-operation calculator. There are a few
 - Use the `in` keyword to check if one string is found within another
 - Use `float(x)` to convert a string to a float
 
-To help you out, here is a function that will give you the numbers around the symbol:
+To help you out, here is a function that will give you the numbers around the symbol - don't worry about exactly how it works:
 
     def firstNumber(fullLine, symbol):
         return fullLine[0:fullLine.find(symbol)].strip()

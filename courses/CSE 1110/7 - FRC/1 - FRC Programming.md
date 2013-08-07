@@ -20,7 +20,6 @@ Each language has pros and cons.
 - Forces good programming patterns such as object-orientation.
 - Simpler than C++.
 - No explicit memory management. You don't have to worry about handling specific memory addresses.
-- It's the AP Computer Science language, so if any of your students are taking that course, you don't have to learn a new language.
 
 ### Disadvantages
 - Incomplete vision tracking APIs.

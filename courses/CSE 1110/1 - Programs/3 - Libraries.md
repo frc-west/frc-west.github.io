@@ -3,7 +3,7 @@ title: Libraries
 layout: coursepage
 ---
 
-A really cool part of programs is their ability to use code from other programs. These other programs are known as "libraries", or "dependencies". They are used to abstract away some of the lower level details of how it will run.
+A really cool part of programs is their ability to use code from other programs. These other programs are known as "libraries", or "dependencies". They are used to make complex tasks easier.
 
 You might want to display a window on the screen with a program. To do so, you would use libraries, like so:
 
@@ -20,3 +20,8 @@ There are also usually programming language libraries. For example, python has a
 This is all known as low-level abstraction. This simply means that the hard-to-do details are taken care of for you, and you just need to provide input.
 
 You will probably be unknowingly using a lot of libraries when programming. They make everyone's life easier, because re-writing already established code is tedious and a waste of time. It's building on the shoulders of giants.
+
+## Finding libraries
+Libraries are usually found online. Many libraries have been written in the past few decades, and are found for a variety of languages, platforms and locations.
+
+For python, see [UsefulModules](http://wiki.python.org/moin/UsefulModules) and the [python standard library](http://docs.python.org/2/library/) for more information.

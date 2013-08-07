@@ -6,6 +6,7 @@ layout: coursepage
 Sometimes a simple stack trace or error message doesn't help find a problem. For this reason, there are debugging tools made to examine exactly how your program behaves and why something is happening.
 
 Popular debuggers
+
 * Python - winpdb
 * Java - jdb, jswat
 * C - ddd

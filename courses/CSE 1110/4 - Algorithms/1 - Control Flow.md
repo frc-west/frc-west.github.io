@@ -36,7 +36,7 @@ There are a few things to explain in this example.
 
 You'll notice that this example makes it easy to adjust and change instructions. It can be much easier to do powerful operations in programming versus English.
 
-One note as well - in `if` or `while` statements, the things to do are *indented*.
+One note as well - in `if` or `while` statements, the things to do are **indented**.
 
 # Cases
 There are some very useful and versatile things you can do with this kind of simple control flow. You probably don't even realise how powerful this is.
@@ -81,10 +81,10 @@ The most useful loop is the while loop. It runs *while a condition is true*.
     while(x < 10):
         x = x + 1
 
-So this will add 1 to `x` every time in the loop. At some point, `x` will be equal to 10, and `x < 10` will no longer be true.
+So this will add 1 to `x` every time in the loop. At some point, `x` will be equal to 10, and `x < 10` will no longer be true. The program will then finish the loop and continue on to the next set of instructions.
 
 ## For loops
-Python has special for loops. Generally, if you can express an instruction like `for something in something else`, python for loops work well.
+Python has special *for loops*. Generally, if you can express an instruction like `for something in something else`, python for loops work well.
 
     for x in range(10):
         print(x)

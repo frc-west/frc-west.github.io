@@ -20,9 +20,11 @@ It also supports parentheses to force order of operations.
 # Modulus
 The only thing that might come as a surprise in python math is the modulus operator. It returns the "remainder" from the division.
 
-    print(3 % 2)
+    print(5 % 2)
     
-That will print 1, because 3 / 2 is 1 R 1.
+That will print 1, because 5 / 2 is 2 R 1.
+
+Modulus is different from division however, because it only gives the **remainder**.
 
 A useful application of modulus is in time.
 
@@ -38,4 +40,4 @@ This lets you ignore all of the hours that have already happened. You *could* do
     hours = int(minutes / 60)
     minutes = minutes - (hours * 60)
 
-They both do the same thing, but the first solution is faster to calculated since it is one less step.
+They both do the same thing, but the first solution is faster to calculate since it is one less step.

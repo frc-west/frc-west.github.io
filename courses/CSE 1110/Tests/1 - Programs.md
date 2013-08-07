@@ -22,7 +22,7 @@ layout: coursepage
 + By transferring problems into basic math
 + By using sophisticated calculations
 + By executing binary files
-+ By create virtual environments
++ By creating virtual environments
 
 ### 4. What differentiates a programming language from other languages?
 

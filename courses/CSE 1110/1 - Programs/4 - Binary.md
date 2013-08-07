@@ -63,3 +63,18 @@ That's 1 073 741 824 bytes in a gigabyte! You can fit more than a billion charac
 
 ### Executables
 Binary, when applied to executable programs, can become a huge mess. Thankfully, you don't need to worry about that at all. The libraries already developed makes the machine code irrelevant to programmers.
+
+## Activity
+For practise, find the value of these binary numbers:
+
+    101010010101
+    100101010010
+    010101010010
+
+And, write these numbers in binary format:
+
+    1023
+    1000
+    221
+
+Test your answers using [this](http://acc6.its.brooklyn.cuny.edu/~gurwitz/core5/nav2tool.html) tool.

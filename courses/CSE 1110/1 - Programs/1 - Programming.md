@@ -70,18 +70,20 @@ Early on in the development of computers, we realised that we need something mor
 As a result, there is something called dynamic flow. This means that you can put something like this in a program:
 
     if user is male, print "Hello sir"
-    else if user is female, print "Hello mam"
+    else if user is female, print "Hello ma'am"
 
 It can also mean that a programmer can write a *loop*. Loops are instructions that are run multiple times, depending on some kind of condition.
 
     while user is asleep, ring alarm
     turn off alarm
 
+The alarm will ring until the user wakes up.
+
 This is useful for all kinds of things, as you will see later on. Almost 80% of program execution is actually in loops. Many loops in modern day computers do things like this:
 
     while no button has been clicked, display page
-    display page that button refers to
-    
-You can see that both of these "while" loops take for granted that the condition they were waiting on it now false. In the first one, the programmer knows that the user is awake now, by virtue of the fact that the loop is over. The second example also knows that a button has been clicked because "no button has been clicked" is now false.
+    display page that the button that was pressed refers to
+
+You can see that both of these "while" loops take for granted that the condition they were waiting on is now false. In the first one, the programmer knows that the user is awake now, by virtue of the fact that the loop is over. The second example also knows that a button has been clicked because "no button has been clicked" is now false.
 
 With these simple but powerful tools, we can write complex and useful applications.

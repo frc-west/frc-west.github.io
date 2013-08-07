@@ -74,12 +74,13 @@ Interestingly enough, a programming language will become completely unimportant 
 
 Compiling is the process of taking the pure text of the code, and transforming that into something that the computer can understand and execute. The advanced syntax of modern languages is just too complex for a processor to execute by itself. There needs to be a conversion between the original code and an executable file.
 
-Not all programming languages are compiled though. In fact, only 2 of the languages listed above are ever compiled into executable files. Most modern languages are even farther abstracted, and are run on **virtual machines**. You'll learn more about them later.
+Not all programming languages are directly compiled though. In fact, only 2 of the languages (C & C++) listed above are ever compiled into executable files. Most modern languages are even farther abstracted, and are run on **virtual machines**. You'll learn more about them later.
 
 When comparing different executable files, the language they were written is completely stripped away. A C compiled program could be identical to a Haskell compiled program. It's unlikely, but the key is that executable files are not special from each other.
 
 Executable files can also usually only run on certain platforms. They usually rely on certain parts of the system to be there. That is why there are different downloads for different operating systems, even if the program is the exact same on all platforms.
 
+### Source vs Machine code
 
 **Source Code** = The original code written in the programming language
 **Machine Code** = The transformed code that computers can execute easily
