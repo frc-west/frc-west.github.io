@@ -23,5 +23,6 @@ Robots are now being used in many different industries. The majority of usage is
 - Medical surgeries
 - Military (bomb-squads, drones)
 - Domestic usages (vacuums, cars, etc.)
+- Space exploration
 
 Robots are well suited for uses where humans cannot be as meticulous and consistent. They can also be used to keep people safe from harm, like bomb diffusing.
