@@ -295,11 +295,8 @@ courses:
         group: Robotic System
         units:
         -
-            unit: Intro
-            url: /courses/ELT 1140/3 - Robotic System/1 - Intro
-        -
             unit: Activity
-            url: /courses/ELT 1140/3 - Robotic System/2 - Activity
+            url: /courses/ELT 1140/3 - Robotic System/1 - Activity
 
     -
         group: Tests
