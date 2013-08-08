@@ -33,13 +33,15 @@ There can also be an element of game strategy. This comes into play when the goa
 ### Design
 After you know exactly how you will accomplish your goals, you need to design those models. Design, at this point, continues throughout the rest of the process. You will constantly be coming back to it, iterating on what exactly the robot will be like.
 
-Design can be done in a multitude of ways, but typically sketches, models and CAD (Computer Aided Design) are the most effective. You can use sketches to give general outlines, models to give specific details and CAD to assemble and play with all of your pieces. The combination of the three helps create a process that slowly defines what the robot will be, while continuously improving design.
+Design can be done in a multitude of ways, but typically sketches, models and CAD (Computer Aided Design) are the most effective. You can use sketches to give general outlines, models to give specific details and CAD to assemble and play with all of your pieces. The combination of the three helps create a process that slowly defines what the robot will be, continuously improving design.
 
 ![](/img/cad.jpg)
 An example CAD
 
 ### Prototyping
 After you have a general idea of what your robot will do, how it will do it and with what, you should prototype that design. From there, you can examine the real-life performance of your designs, and usually find improvements. You should not limit yourself to prototyping only one design. Prototyping multiple designs is easy and gives better insight into the design.
+
+Prototyping doesn't mean creating an entire robot. Remember, the purpose is to find out if components work well. Prototype your major designs. Dont't prototype things you know work (ie. drivetrain).
 
 Prototypes can be made out of anything. Anything from wood to 3D printed parts can all fulfil the requirements of a prototype. The key is to make things fast.
 

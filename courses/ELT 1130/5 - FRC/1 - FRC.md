@@ -3,7 +3,7 @@ title: FRC
 layout: coursepage
 ---
 
-FRC encompasses some specific design goals, technical challenges and strategy requirements.
+FRC (FIRST Robotics Competition) encompasses some specific design goals, technical challenges and strategy requirements.
 
 Here are some useful resources for FRC specifics
 

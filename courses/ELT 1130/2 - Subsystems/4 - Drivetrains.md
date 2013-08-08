@@ -20,10 +20,9 @@ Frames are the body of a robot. They hold everything together. There are many di
 
 [Example frame](http://www.vexrobotics.com/catalog/product/gallery/id/25908/)
 
-### Axles
-Wheels are held on axles. They allow for easy-moving spinning.
+### Wheels and Axles
+Wheels move the robot around. They are the lowest point on a robot, because they touch the ground. Axles run through wheels, allowing them to rotate together. Usually, power is applied to the axle which rotates the wheel.
 
-### Wheels
-Wheels move the robot around. They are the lowest point.
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wheelaxle_quackenbos.gif/250px-Wheelaxle_quackenbos.gif)
 
 [Example wheels](http://www.vexrobotics.com/catalog/product/gallery/id/25875/)
