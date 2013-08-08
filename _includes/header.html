@@ -26,18 +26,25 @@
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="navbar-inner">
                 <div class="container">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
                     <a class="brand" href={{ "/" }}>{{ site.name }}</a>
                     <a class="brand" href="http://www.frcwest.com/"><img src="/img/logo.png" width="18" height="22"></a>
-                    <ul class="nav pull-right">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Courses <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                {% for course in site.courses %}
-                                <li><a href="{{ course.url }}">{{ course.course }}</a></li>
-                                {% endfor %}
-                            </ul>
-                        </li>
-                    </ul>
+                    <div class="nav-collapse collapse">
+                        <ul class="nav pull-right">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Courses <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    {% for course in site.courses %}
+                                    <li><a href="{{ course.url }}">{{ course.course }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
