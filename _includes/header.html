@@ -12,6 +12,9 @@
             body {
             padding-top: 60px;
             }
+            .dropdown-backdrop {
+                position: static;
+            }
         </style>
         <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -38,7 +41,7 @@
                         <ul class="nav pull-right">
                             <li class="dropdown">
                                 <a href="" class="dropdown-toggle" data-toggle="dropdown">Courses <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
+                                <ul class="dropdown-menu dropdown">
                                     {% for course in site.courses %}<li><a href="{{ course.url }}">{{ course.course }}</a></li>{% endfor %}
                                 </ul>
                             </li>
