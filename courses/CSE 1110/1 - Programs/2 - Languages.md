@@ -36,7 +36,7 @@ So what is a platform? Platforms are things like:
 - Operating Systems (Windows 7, Mac OSX, Ubuntu)
 - Desktop Environments (Luna, Aqua, GNOME, KDE, Openbox)
 - Frameworks (.NET)
-- Graphics engines (Nvidia, AMD)
+- Graphics engines (Nvidia, AMD, OpenGL)
 
 They are things that make programs compatible with the system.
 
@@ -70,7 +70,7 @@ As you can clearly see, there are some very stark differences between them.
 In this course, the code that you'll see is written in python. It is the easiest to understand and write for new programmers.
 
 # Execution
-Interestingly enough, a programming language will become completely unimportant after **compiling** a program.
+Interestingly enough, a programming language will become completely irrelevant after **compiling** a program.
 
 Compiling is the process of taking the pure text of the code, and transforming that into something that the computer can understand and execute. The advanced syntax of modern languages is just too complex for a processor to execute by itself. There needs to be a conversion between the original code and an executable file.
 

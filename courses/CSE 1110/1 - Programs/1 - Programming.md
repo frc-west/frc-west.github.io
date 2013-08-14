@@ -3,9 +3,9 @@ title: Programming
 layout: coursepage
 ---
 
-Before starting this course, please install [python](http://wiki.python.org/moin/BeginnersGuide/Download). ([opening command line](http://pcsupport.about.com/od/commandlinereference/f/open-command-prompt.htm))
+Before starting this course, please install python. For windows, use [this](http://www.python.org/ftp/python/2.7.5/python-2.7.5.msi) installer. For mac, use [this](http://www.python.org/ftp/python/2.7.5/python-2.7.5-macosx10.6.dmg) installer. [This](http://www.python.org/getit/) pages contains more information. To verify you have installed python, open the [command line](http://www.computerhope.com/issues/chdos.htm) and type `python --version`. It should print `Python 2.7.x`, where `x` is bigger than 2.
 
-Programming is an immense topic that covers thousands of different topics. Computer science is the study of computation, and how best to do it.
+Programming is an broad study that covers thousands of different topics. Computer science is the study of computation, and how best to do it.
 
 So what exactly is programming, and why do we need to do it? Well, it comes down to doing something relatively simple: writing instructions that a computer can properly understand and execute.
 
@@ -52,6 +52,7 @@ And most people would quickly admit that even these instructions would require a
 
 # Instructions
 So assume we need to get from the top left square to the top right square.
+
 ![](/img/grid.png)
 
 A computer would require something like this:
@@ -75,15 +76,15 @@ As a result, there is something called dynamic flow. This means that you can put
 It can also mean that a programmer can write a *loop*. Loops are instructions that are run multiple times, depending on some kind of condition.
 
     while user is asleep, ring alarm
-    turn off alarm
+    after, turn off alarm
 
 The alarm will ring until the user wakes up.
 
 This is useful for all kinds of things, as you will see later on. Almost 80% of program execution is actually in loops. Many loops in modern day computers do things like this:
 
     while no button has been clicked, display page
-    display page that the button that was pressed refers to
+    after, display page that the button that was pressed refers to
 
-You can see that both of these "while" loops take for granted that the condition they were waiting on is now false. In the first one, the programmer knows that the user is awake now, by virtue of the fact that the loop is over. The second example also knows that a button has been clicked because "no button has been clicked" is now false.
+You can see that the instructions after both of these "while" loops take for granted that the condition they were waiting on is now false. In the first one, the programmer knows that the user is awake now, by virtue of the fact that the loop is over. It can then turn off the alarm. The second example also knows that a button has been clicked because "no button has been clicked" is now false. It will then display the page of which the button was pressed for.
 
 With these simple but powerful tools, we can write complex and useful applications.
