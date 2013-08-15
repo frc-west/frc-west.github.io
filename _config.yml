@@ -110,6 +110,12 @@ courses:
 
 
 -
+    course: CSE 1120
+    base: /courses/CSE 1120
+    url: /courses/CSE 1120/home
+    groups:
+
+-
     course: ELT 1010
     base: /courses/ELT 1010
     url: /courses/ELT 1010/home
