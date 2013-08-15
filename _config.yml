@@ -114,6 +114,94 @@ courses:
     base: /courses/CSE 1120
     url: /courses/CSE 1120/home
     groups:
+    -
+        group: Decisions
+        units:
+        -
+            unit: Statements as Decisions
+            url: /courses/CSE 1120/1 - Decisions/1 - Statements as Decisions
+        -
+            unit: Edge Cases
+            url: /courses/CSE 1120/1 - Decisions/2 - Edge Cases
+        -
+            unit: Accuracy
+            url: /courses/CSE 1120/1 - Decisions/3 - Accuracy
+        -
+            unit: Consistency
+            url: /courses/CSE 1120/1 - Decisions/4 - Consistency
+
+    -
+        group: Math Functions
+        units:
+        -
+            unit: Intro
+            url: /courses/CSE 1120/2 - Math Functions/1 - Intro
+        -
+            unit: Activity
+            url: /courses/CSE 1120/2 - Math Functions/2 - Activity
+
+    -
+        group: Repetition
+        units:
+        -
+            unit: Looping
+            url: /courses/CSE 1120/3 - Repetition/1 - Looping
+        -
+            unit: Iteration
+            url: /courses/CSE 1120/3 - Repetition/2 - Iteration
+        -
+            unit: Repetition as a Problem Solver
+            url: /courses/CSE 1120/3 - Repetition/3 - Repetition as a Problem Solver
+
+    -
+        group: IPO
+        units:
+        -
+            unit: Parsing
+            url: /courses/CSE 1120/4 - IPO/1 - Parsing
+        -
+            unit: Processing
+            url: /courses/CSE 1120/4 - IPO/2 - Processing
+        -
+            unit: Output
+            url: /courses/CSE 1120/4 - IPO/3 - Output
+        -
+            unit: Consistency
+            url: /courses/CSE 1120/4 - IPO/4 - Consistency
+
+    -
+        group: Debugging
+        units:
+        -
+            unit: Syntax
+            url: /courses/CSE 1120/5 - Debugging/1 - Syntax
+        -
+            unit: Errors
+            url: /courses/CSE 1120/5 - Debugging/2 - Errors
+
+    -
+        group: Primes
+        units:
+        -
+            unit: Intro
+            url: /courses/CSE 1120/6 - Primes/1 - Intro
+        -
+            unit: Activity
+            url: /courses/CSE 1120/6 - Primes/2 - Activity
+
+    -
+        group: Tests
+        units:
+        -
+            unit: Decisions
+            url: /courses/CSE 1120/Tests/1 - Decisions
+        -
+            unit: Repetition
+            url: /courses/CSE 1120/Tests/2 - Repetition
+        -
+            unit: IPO
+            url: /courses/CSE 1120/Tests/3 - IPO
+
 
 -
     course: ELT 1010
@@ -205,6 +293,64 @@ courses:
     base: /courses/ELT 1080
     url: /courses/ELT 1080/home
     groups:
+    -
+        group: Control System
+        units:
+        -
+            unit: Circuits
+            url: /courses/ELT 1080/1 - Control System/1 - Circuits
+        -
+            unit: Loops
+            url: /courses/ELT 1080/1 - Control System/2 - Loops
+        -
+            unit: Ground
+            url: /courses/ELT 1080/1 - Control System/3 - Ground
+        -
+            unit: Control
+            url: /courses/ELT 1080/1 - Control System/4 - Control
+        -
+            unit: Input to Output
+            url: /courses/ELT 1080/1 - Control System/5 - Input to Output
+
+    -
+        group: Devices
+        units:
+        -
+            unit: Sensors
+            url: /courses/ELT 1080/2 - Devices/1 - Sensors
+        -
+            unit: Processors
+            url: /courses/ELT 1080/2 - Devices/2 - Processors
+        -
+            unit: Actuators
+            url: /courses/ELT 1080/2 - Devices/3 - Actuators
+        -
+            unit: Control
+            url: /courses/ELT 1080/2 - Devices/4 - Control
+        -
+            unit: Measurement
+            url: /courses/ELT 1080/2 - Devices/5 - Measurement
+
+    -
+        group: Testing
+        units:
+        -
+            unit: Measuring
+            url: /courses/ELT 1080/3 - Testing/1 - Measuring
+        -
+            unit: Activity
+            url: /courses/ELT 1080/3 - Testing/2 - Activity
+
+    -
+        group: Tests
+        units:
+        -
+            unit: Control System
+            url: /courses/ELT 1080/Tests/1 - Control System
+        -
+            unit: Devices
+            url: /courses/ELT 1080/Tests/2 - Devices
+
 
 -
     course: ELT 1130
