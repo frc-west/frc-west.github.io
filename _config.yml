@@ -201,6 +201,12 @@ courses:
 
 
 -
+    course: ELT 1080
+    base: /courses/ELT 1080
+    url: /courses/ELT 1080/home
+    groups:
+
+-
     course: ELT 1130
     base: /courses/ELT 1130
     url: /courses/ELT 1130/home
