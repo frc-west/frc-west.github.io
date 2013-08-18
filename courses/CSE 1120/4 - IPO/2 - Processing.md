@@ -17,3 +17,6 @@ Processing is not intelligent. It isn't even complex. Processing very rarely inv
 All of the seemingly intelligent instructions you provide python are in reality simplified into very easy calculating and instructions. A processor is typically only capable of jumping from position to position in machine code. With jumping (sometimes called branching), almost all control flow is defined.
 
 So, when you're asked how a computer does so many things, you can answer "it doesn't". Most of the complicated stuff that we ask of computers is simplified before ever being given to the computer.
+
+## As Functions
+You can imagine the IPO model as a function. Functions have input (arguments), process and output (return). They are a fundamental piece of the IPO model. They can be an IPO or be part of one.
