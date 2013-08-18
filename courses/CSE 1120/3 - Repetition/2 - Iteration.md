@@ -104,6 +104,10 @@ Iterating lists and tuples is much easier.
         print tuple
 
 # Uses
-Now that you know how to create and iterate through data, what can you use this for? Well, the uses are endless. You have have a selection of options for the user to choose through. Iterating through those values makes it easy to put them anywhere.
+Now that you know how to create and iterate through data, what can you use this for? Well, the uses are endless. You can have a selection of options for the user to choose through. Iterating through those values makes it easy to put them anywhere. For example, you might have a selection of ages.
+
+    ('0-18', '19-23', '24-30', '30-40', '40-60', '60-80', '80+')
+
+You can then use these values as possible selections for the user, and reference with age using one number (the index).
 
 It's difficult to understand the power of what you're doing though. Some concepts of programming have a lot of uses, but are difficult to quantify as useful. Iteration of one of those. As long as you understand *how* to iterate, the potential of it will slowly reveal itself.
