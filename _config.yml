@@ -165,9 +165,6 @@ courses:
         -
             unit: Output
             url: /courses/CSE 1120/4 - IPO/3 - Output
-        -
-            unit: Consistency
-            url: /courses/CSE 1120/4 - IPO/4 - Consistency
 
     -
         group: Debugging
