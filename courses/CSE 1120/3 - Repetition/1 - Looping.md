@@ -14,7 +14,7 @@ The problem is, they would look silly and insanely long. Imagine replacing this 
 
 If we were to imagine a language without loops, this loop would be [this](resources/no-loops). You can guess why loops could be useful.
 
-But you've only seen very rudamentary versions of loops. You haven't got the chance to see many of the useful looping mechanisms possible. Unfortunately, this is a consequence of the complexity of some of those things. Thins like waiting are difficult to do. There are good reasons that many of the loops you use on a daily basis as a programmer as abstracted away from you. You rarely directly come into contact with the majority of loops. Be sure, however, that they are there.
+But you've only seen very rudimentary versions of loops. You haven't got the chance to see many of the useful looping mechanisms possible. Unfortunately, this is a consequence of the complexity of some of those things. Things like waiting are difficult to do. There are good reasons that many of the loops you use on a daily basis as a programmer are abstracted away from you. You rarely directly come into contact with the majority of loops. Be sure, however, that they are there.
 
 We'll explore an example from the math function activity - factorials.
 

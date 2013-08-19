@@ -110,8 +110,6 @@ So we need to switch the elements in the list.
     a = items[index]
     b = items[index + 1]
 
-And reversing them in the list.
-
     items[index] = b
     items[index + 1] = a
 
