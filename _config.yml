@@ -170,11 +170,11 @@ courses:
         group: Debugging
         units:
         -
-            unit: Syntax
-            url: /courses/CSE 1120/5 - Debugging/1 - Syntax
-        -
             unit: Errors
-            url: /courses/CSE 1120/5 - Debugging/2 - Errors
+            url: /courses/CSE 1120/5 - Debugging/1 - Errors
+        -
+            unit: Syntax
+            url: /courses/CSE 1120/5 - Debugging/2 - Syntax
 
     -
         group: Primes

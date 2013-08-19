@@ -10,3 +10,6 @@ So far, we've used `print` for output. This is fine as output when running progr
 But when and how do we use GUIs? Well, the question of when is still debated. Many users appreciate the efficiency of command-based computing. It still has many uses in the real world. But generally, when your program is going to be run by people without that skill, GUIs are better.
 
 For now, we won't be making GUIs. The concepts of programming are better understood without the complexity of a GUI to manage. But you should be aware that they are a component of output that is very important for user interaction. 
+
+# Consistency
+Remember that output needs to be consistent. This not only applies to algorithms, but your program as a whole. You've probably experienced this before - sometimes a button works and sometimes something breaks. Programs that are inconsistent when given the same input are volatile, or fragile. Typically this is a failure to deal with edge cases.
