@@ -50,7 +50,7 @@ The metal filament that the electricity flows through is commonly known as *resi
 
 ![](http://www.instructables.com/files/deriv/FUW/8CIV/FB0B2607/FUW8CIVFB0B2607.LARGE.gif)
 
-A parallel circuit is where loads (eg: a light bulb) are all connected directly to the power source, instead of connecting together. (Left side) 89
+A parallel circuit is where loads (eg: a light bulb) are all connected directly to the power source, instead of connecting together. (Left side)
 
 In a series circuit the wires are connected together throughout the circuit. (Right side)
 
