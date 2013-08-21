@@ -222,8 +222,8 @@ courses:
         group: Electronics
         units:
         -
-            unit: Curcuits
-            url: /courses/ELT 1010/2 - Electronics/1 - Curcuits
+            unit: Circuits
+            url: /courses/ELT 1010/2 - Electronics/1 - Circuits
         -
             unit: Electrical Components
             url: /courses/ELT 1010/2 - Electronics/2 - Electrical Components
