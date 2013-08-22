@@ -3,7 +3,7 @@ title: Circuits
 layout: coursepage
 ---
 
-At the heart of a control system is circuits. You can't have an electrical system without somehow moving electricity around it. Let's explore some simple control circuits that allow systems be controlled.
+At the heart of a control system is circuits. You can't have an electrical system without somehow moving electricity around it. Let's explore some simple control circuits that allow systems to be controlled.
 
 First, this is a switch.
 
