@@ -29,17 +29,13 @@ But how does this help us? Well, if you hook up your input signal to the bottom 
 
 ![](/img/relay-with-friend.png)
 
-Now you have two batteries. You've effectively doubled the potential distance that the signal can travel.
-
-But, you might wonder, how do you know when your friend has pressed their switch? Let's use a lightbulb.
-
-![](/img/relay-with-friend-with-lightbulb.png)
+Now you have four batteries. You've effectively doubled the potential distance that the signal can travel.
 
 You can imagine how you could use multiple relays in a row to extend a signal.
 
 ![](/img/relay-extending.png)
 
-So now we have a 1-way communication device that can (theoretically) extend for an infinite distance. Of course, you cannot both talk at the same time. But in practicality, you'll always be decoding the other person's signal while they are talking. It would be very difficult to take advantage of a two-way communication device.
+So now we have a 2-way communication device that can (theoretically) extend for an infinite distance. 
 
 ## Gates
 Something you might wonder is if these devices are useful for other applications. And the answer is yes. Actually, with wires and relays, you can actually construct a full computer. Obviously this is not a simple task, and mechanical relays are large and slow. In reality, computers are made out of transistors, which are very small and fast. But at the most basic understanding, they operate in the same way as a relay.
@@ -67,6 +63,15 @@ Sometimes you only want to know if one of the signals is on. We use an OR gate f
 In electronic diagrams, this will be simplified to this symbol:
 
 ![](/img/or-gate.png)
+
+#### XOR Gate
+Similar to an OR gate, XOR gates only output if only one of the two inputs is on.
+
+![](/img/xor-gate-circuit.png)
+
+In electronic diagrams, this symbol will be used:
+
+![](/img/xor-gate.png)
 
 #### NOT Gate
 By far the simplest (and in some ways most useful) gate is the NOT gate. This simply reverses the signal. Remember how in a relay, the switch defaults to the top output? If you apply that output signal, it is always the opposite of the input of the relay. So, the NOT gate is only one relay.

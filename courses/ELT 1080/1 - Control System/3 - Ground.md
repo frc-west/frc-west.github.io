@@ -26,8 +26,8 @@ But ground doesn't neccesarily mean "ground" as in earth. Things like vehicles, 
 ### Example
 You could set up your relay to talk to your friend to use ground. It would look like this:
 
-![](/img/relay-with-friend-with-lightbulb-grounded.png)
+![](/img/relay-with-friend-grounded.png)
 
-Notice that you now only need one wire that goes from your friend's house to yours now. Although this doesn't seem like a big deal in your situation, it certainly is for large scale communications.
+Notice that you now only need two wires that go from your friend's house to yours now. Although this doesn't seem like a big deal in your situation, it certainly is for large scale communications.
 
 Many different devices use grounds to make circuits simpler. It removes the need to use extraneous amounts of wire. Its only disadantage is the possibility that the voltage is not high enough to use an earth ground. For example, you could not use an earth ground for a AA battery with a lightbulb, since 1.5V isn't enough to attract enough electrons from the ground.

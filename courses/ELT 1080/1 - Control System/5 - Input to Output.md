@@ -8,7 +8,7 @@ Something very important to control theory that we haven't discussed is how inpu
 ## PID Control
 You may have even heard of PID before ever understanding control theory. PID is a method of output control that is used for systems with multi-direction positional or velocity systems. It comes down to having a "setpoint" - somewhere that we want the input to be.
 
-PID has one input (we'll call it `In`) and one output (`O`). We want `I` to math `O` as closely as possible.
+PID has one input (we'll call it `In`) and one output (`O`). We want `I` to match `O` as closely as possible.
 
 PID's main attraction as a form of control is it's ability to compensate for difference. PID stands for Proportional, Integral and Differential. Don't be intimedated however, as these are pretty basic. The output will simply be a sum of these three components.
 
