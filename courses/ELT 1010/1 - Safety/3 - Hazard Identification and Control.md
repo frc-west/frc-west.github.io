@@ -17,7 +17,7 @@ There are many kinds of hazards. These are a few of the most common hazards rela
 * Operating equipment somewhere that is unsafe to do so
 * Operating equipment while under the influence of drugs or alcohol
 * Improper ventilation
-* Spills (water or otherwise)
+* Spills (water or otherwise); NOTE: water conducts electricity.
 
 ## Control
 Often times, controlling hazards is very easy. You should, however, always control hazards.
