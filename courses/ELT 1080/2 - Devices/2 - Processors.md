@@ -7,7 +7,7 @@ One of the most important development in the past 100 years is the processor. Th
 
 The reason we've looked at relays and logic gates is that they are the building blocks for a processor. With some circuitry to manage signals, addressing and other various jobs, we can create a processor. But why do we care?
 
-Processors are the single most important part of a feedback loop control system. And almost all modern control systems use feedback loops. We don't want to manually do everything anymore. It would be a waste of time to hire someone to constant manage the heating system in a building. Having a circuit with sensors perform this function for you makes one less thing to do.
+Processors are the single most important part of a feedback loop control system. And almost all modern control systems use feedback loops. We don't want to manually do everything anymore. It would be a waste of time to hire someone to constantly manage the heating system in a building. Having a circuit with sensors perform this function for you makes one less thing to do.
 
 Processors make everything easier, more efficient and less redundant. You're using processors all of the time, even in unlikely places. How does a microwave know when to stop heating food? How does a fan stay at a constant speed? How does you TV manage all of the different inputs? The answer is processors.
 
