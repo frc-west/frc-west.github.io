@@ -217,6 +217,9 @@ courses:
         -
             unit: Hazard Identification and Control
             url: /courses/ELT 1010/1 - Safety/3 - Hazard Identification and Control
+        -
+            unit: Activity
+            url: /courses/ELT 1010/1 - Safety/4 - Activity
 
     -
         group: Electronics
