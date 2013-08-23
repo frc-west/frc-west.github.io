@@ -15,3 +15,5 @@ Some questions to consider when creating your animation:
 - What special precautions should you take when working with electricity?
 
 Save with your whole first and last name and upload your animation, video, movie maker, etc. to your D2L Dropbox folder of your ELT 1010 course.
+
+Rubric is available [here](/resources/Safety-in-electronics-rubric.pdf)
