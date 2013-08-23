@@ -15,6 +15,8 @@ To look at content in courses, find the link on the right-hand side of the scree
 ## Website rendering
 If this website has any glitches, bugs or just anything that doesn't look right, report them [here](http://frc-west.github.io/issues/new). You'll need an account on github to report issues.
 
+For other inquiries (spelling mistakes, errors), email [Joel](mailto:joelgallant236@gmail.com)
+
 ## <a id="technical">Technical details</a>
 For those of you who are interested, here are the technical specs of this website.
 
