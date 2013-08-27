@@ -43,7 +43,7 @@ layout: coursepage
     x = {
         (
             [1, 2, 3]
-        )
+        ) : []
     }
 
 + Dictionary
