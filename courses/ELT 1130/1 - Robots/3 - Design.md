@@ -36,6 +36,7 @@ After you know exactly how you will accomplish your goals, you need to design th
 Design can be done in a multitude of ways, but typically sketches, models and CAD (Computer Aided Design) are the most effective. You can use sketches to give general outlines, models to give specific details and CAD to assemble and play with all of your pieces. The combination of the three helps create a process that slowly defines what the robot will be, continuously improving design.
 
 ![](/img/cad.jpg)
+
 An example CAD
 
 ### Prototyping
@@ -46,6 +47,7 @@ Prototyping doesn't mean creating an entire robot. Remember, the purpose is to f
 Prototypes can be made out of anything. Anything from wood to 3D printed parts can all fulfil the requirements of a prototype. The key is to make things fast.
 
 ![](/img/3dprinted.jpg)
+
 An example 3D printed part
 
 ### Finalising
