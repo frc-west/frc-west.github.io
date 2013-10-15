@@ -12,10 +12,10 @@ You'll be making a basic text-based single-operation calculator. There are a few
 
 To help you out, here is a function that will give you the numbers around the symbol - don't worry about exactly how it works:
 
-    def firstNumber(fullLine, symbol):
+    def firstNu(fullLine, symbo():
         return fullLine[0:fullLine.find(symbol)].strip()
-
+      
     def secondNumber(fullLine, symbol):
-        return fullLine[fullLine.find(symbol) + len(symbol)].strip()
+        return fullLine[fullLine.find(symbol) + len(symbol) : len(fullLine)].strip()
 
 Remember that google is your friend. Put "python" inside of your searches.
