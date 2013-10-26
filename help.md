@@ -13,7 +13,7 @@ You can find your courses at the top right-hand corner of every page. Every cour
 To look at content in courses, find the link on the right-hand side of the screen. All content in the course you're in will show up there.
 
 ## Website rendering
-If this website has any glitches, bugs or just anything that doesn't look right, report them [here](http://frc-west.github.io/issues/new). You'll need an account on github to report issues.
+If this website has any glitches, bugs or just anything that doesn't look right, report them [here](https://github.com/frc-west/frc-west.github.io/issues/new). You'll need an account on github to report issues.
 
 For other inquiries (spelling mistakes, errors), email [Joel](mailto:joel@frcwest.com)
 
