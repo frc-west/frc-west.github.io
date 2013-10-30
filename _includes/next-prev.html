@@ -1,6 +1,6 @@
-<ul class="pager">
-    {% for course in site.courses %}
-        {% if page.url contains course.base %}
+{% for course in site.courses %}
+    {% if page.url contains course.base %}
+        <ul class="pager">
             {% if page.url contains course.url %}
                 <li>
                     <a class="btn-primary" href="{{ course.groups[0].units[0].url }}">Begin</a>
@@ -26,6 +26,6 @@
                     {% endfor %}
                 {% endfor %}
             {% endif %}
-        {% endif %}
-    {% endfor %}
-</ul>
+        </ul>
+    {% endif %}
+{% endfor %}
